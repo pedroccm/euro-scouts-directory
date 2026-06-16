@@ -27,6 +27,11 @@ const LEAGUE_STYLES: Record<string, string> = {
   "Liga Profesional Argentina": "bg-sky-100 text-sky-700 ring-sky-600/20",
   "Swiss Super League": "bg-rose-100 text-rose-700 ring-rose-600/20",
   "Austrian Bundesliga": "bg-red-100 text-red-700 ring-red-600/20",
+  "Liga MX": "bg-emerald-100 text-emerald-700 ring-emerald-600/20",
+  "Danish Superliga": "bg-red-100 text-red-700 ring-red-600/20",
+  Ekstraklasa: "bg-amber-100 text-amber-700 ring-amber-600/20",
+  Allsvenskan: "bg-yellow-100 text-yellow-800 ring-yellow-600/20",
+  Eliteserien: "bg-blue-100 text-blue-700 ring-blue-600/20",
 };
 
 export function LeagueBadge({

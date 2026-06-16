@@ -38,4 +38,9 @@ export const LEAGUE_ORDER = [
   "Liga Profesional Argentina",
   "Swiss Super League",
   "Austrian Bundesliga",
+  "Liga MX",
+  "Danish Superliga",
+  "Ekstraklasa",
+  "Allsvenskan",
+  "Eliteserien",
 ];

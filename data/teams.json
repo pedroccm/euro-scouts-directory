@@ -3050,5 +3050,537 @@
     "resolved_name": "Neom SC",
     "domain": "neomsc.com",
     "badge": ""
+  },
+  {
+    "league": "Danish Superliga",
+    "name": "Brøndby",
+    "resolved_name": "Brøndby",
+    "domain": "brondby.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ywswyw1473535498.png"
+  },
+  {
+    "league": "Danish Superliga",
+    "name": "Midtjylland",
+    "resolved_name": "FC Midtjylland",
+    "domain": "fcm.dk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/s5bpcr1755712262.png"
+  },
+  {
+    "league": "Danish Superliga",
+    "name": "Randers",
+    "resolved_name": "Randers FC",
+    "domain": "randersfc.dk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/w0kmhn1690407779.png"
+  },
+  {
+    "league": "Danish Superliga",
+    "name": "Silkeborg",
+    "resolved_name": "Silkeborg IF",
+    "domain": "silkeborgif.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/tpxvvp1473535560.png"
+  },
+  {
+    "league": "Danish Superliga",
+    "name": "Sønderjyske",
+    "resolved_name": "Sønderjyske",
+    "domain": "soenderjyske.dk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/04mzis1677238771.png"
+  },
+  {
+    "league": "Danish Superliga",
+    "name": "Vejle",
+    "resolved_name": "Vejle",
+    "domain": "vejle-boldklub.dk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/fhlqev1532855346.png"
+  },
+  {
+    "league": "Danish Superliga",
+    "name": "Viborg",
+    "resolved_name": "Viborg",
+    "domain": "vff.dk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvrpsp1447539333.png"
+  },
+  {
+    "league": "Ekstraklasa",
+    "name": "Arka Gdynia",
+    "resolved_name": "Arka Gdynia",
+    "domain": "arka.gdynia.pl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/i6ls7n1698553767.png"
+  },
+  {
+    "league": "Ekstraklasa",
+    "name": "Termalica Nieciecza",
+    "resolved_name": "Bruk-Bet Termalica Nieciecza",
+    "domain": "termalica.brukbet.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/m1tod31628431456.png"
+  },
+  {
+    "league": "Ekstraklasa",
+    "name": "Cracovia",
+    "resolved_name": "Cracovia",
+    "domain": "cracovia.pl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/bgqbo51714200086.png"
+  },
+  {
+    "league": "Ekstraklasa",
+    "name": "GKS Katowice",
+    "resolved_name": "GKS Katowice",
+    "domain": "gkskatowice.eu",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/zsva1p1626103599.png"
+  },
+  {
+    "league": "Ekstraklasa",
+    "name": "Górnik Zabrze",
+    "resolved_name": "Górnik Zabrze",
+    "domain": "gornikzabrze.pl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/fk1fam1767928408.png"
+  },
+  {
+    "league": "Ekstraklasa",
+    "name": "Jagiellonia Białystok",
+    "resolved_name": "Jagiellonia Białystok",
+    "domain": "jagiellonia.pl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ucze1y1601404699.png"
+  },
+  {
+    "league": "Ekstraklasa",
+    "name": "Korona Kielce",
+    "resolved_name": "Korona Kielce",
+    "domain": "korona-kielce.pl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ytpvtv1448218305.png"
+  },
+  {
+    "league": "Ekstraklasa",
+    "name": "Lech Poznań",
+    "resolved_name": "Lech Poznań",
+    "domain": "lechpoznan.pl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/8zfxyx1685597440.png"
+  },
+  {
+    "league": "Ekstraklasa",
+    "name": "Lechia Gdańsk",
+    "resolved_name": "Lechia Gdańsk",
+    "domain": "lechia.pl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/92qkyn1601412225.png"
+  },
+  {
+    "league": "Ekstraklasa",
+    "name": "Legia Warsaw",
+    "resolved_name": "Legia Warsaw",
+    "domain": "legia.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/c969ez1632775656.png"
+  },
+  {
+    "league": "Ekstraklasa",
+    "name": "Motor Lublin",
+    "resolved_name": "Motor Lublin",
+    "domain": "motorlublin.eu",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/7qevx11720351099.png"
+  },
+  {
+    "league": "Ekstraklasa",
+    "name": "Piast Gliwice",
+    "resolved_name": "Piast Gliwice",
+    "domain": "piast-gliwice.eu",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/qywuux1448219182.png"
+  },
+  {
+    "league": "Ekstraklasa",
+    "name": "Pogoń Szczecin",
+    "resolved_name": "Pogoń Szczecin",
+    "domain": "pogonszczecin.pl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/uxyuwx1448219553.png"
+  },
+  {
+    "league": "Ekstraklasa",
+    "name": "Radomiak Radom",
+    "resolved_name": "Radomiak Radom",
+    "domain": "radomiak.pl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/wpi1dx1698554708.png"
+  },
+  {
+    "league": "Ekstraklasa",
+    "name": "Raków Częstochowa",
+    "resolved_name": "Raków Częstochowa",
+    "domain": "rakow.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/vy8paa1579458598.png"
+  },
+  {
+    "league": "Ekstraklasa",
+    "name": "Widzew Łódź",
+    "resolved_name": "Widzew Łódź",
+    "domain": "widzew.pl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/3rkfjd1692596430.png"
+  },
+  {
+    "league": "Ekstraklasa",
+    "name": "Wisła Płock",
+    "resolved_name": "Wisła Płock",
+    "domain": "sprwislaplock.pl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/49hkkj1574182892.png"
+  },
+  {
+    "league": "Ekstraklasa",
+    "name": "Zagłębie Lubin",
+    "resolved_name": "Zagłębie Lubin",
+    "domain": "zaglebie.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/7n07qf1702990302.png"
+  },
+  {
+    "league": "Liga MX",
+    "name": "América",
+    "resolved_name": "América",
+    "domain": "clubamerica.com.mx",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/amy1xs1581857392.png"
+  },
+  {
+    "league": "Liga MX",
+    "name": "Atlas",
+    "resolved_name": "Atlas",
+    "domain": "atlas.com.mx",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/svvyvw1473541813.png"
+  },
+  {
+    "league": "Liga MX",
+    "name": "Atlético San Luis",
+    "resolved_name": "Atlético de San Luis",
+    "domain": "atleticodesanluis.mx",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/9kgjme1593448412.png"
+  },
+  {
+    "league": "Liga MX",
+    "name": "Cruz Azul",
+    "resolved_name": "Cruz Azul",
+    "domain": "cfcruzazul.com",
+    "badge": "https://www.thesportsdb.com/images/media/team/badge/wcd2yi1781543370.png"
+  },
+  {
+    "league": "Liga MX",
+    "name": "Guadalajara",
+    "resolved_name": "Guadalajara",
+    "domain": "deportivoguadalajara.es",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/qt2hk81757606691.png"
+  },
+  {
+    "league": "Liga MX",
+    "name": "Juárez",
+    "resolved_name": "Juárez",
+    "domain": "fcjuarez.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/b4oy071567446336.png"
+  },
+  {
+    "league": "Liga MX",
+    "name": "León",
+    "resolved_name": "León",
+    "domain": "clubleon-fc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/pc9gro1752393439.png"
+  },
+  {
+    "league": "Liga MX",
+    "name": "Mazatlán",
+    "resolved_name": "Mazatlán",
+    "domain": "mazatlanfc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/fgpobf1593446489.png"
+  },
+  {
+    "league": "Liga MX",
+    "name": "Monterrey",
+    "resolved_name": "Monterrey",
+    "domain": "rayados.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/yglj911721542561.png"
+  },
+  {
+    "league": "Liga MX",
+    "name": "Puebla",
+    "resolved_name": "Puebla",
+    "domain": "clubpuebla.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/h0jgg51593451845.png"
+  },
+  {
+    "league": "Liga MX",
+    "name": "Querétaro",
+    "resolved_name": "Querétaro",
+    "domain": "clubqueretaro.com",
+    "badge": "https://www.thesportsdb.com/images/media/team/badge/024n481781543211.png"
+  },
+  {
+    "league": "Liga MX",
+    "name": "Santos Laguna",
+    "resolved_name": "Santos Laguna",
+    "domain": "clubsantos.mx",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/kg9gzh1779771734.png"
+  },
+  {
+    "league": "Liga MX",
+    "name": "Tijuana",
+    "resolved_name": "Tijuana",
+    "domain": "xolos.com.mx",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/b0mky81779772352.png"
+  },
+  {
+    "league": "Liga MX",
+    "name": "Toluca",
+    "resolved_name": "Toluca",
+    "domain": "tolucafc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/y64wy91523913186.png"
+  },
+  {
+    "league": "Liga MX",
+    "name": "Tigres",
+    "resolved_name": "Tigres FC",
+    "domain": "tigresfutbolclub.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/x6mzk41615832215.png"
+  },
+  {
+    "league": "Liga MX",
+    "name": "Pumas UNAM",
+    "resolved_name": "Pumas UNAM",
+    "domain": "pumas.mx",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/o01nvl1695734937.png"
+  },
+  {
+    "league": "Allsvenskan",
+    "name": "AIK",
+    "resolved_name": "AIK",
+    "domain": "aikfotboll.se",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png"
+  },
+  {
+    "league": "Allsvenskan",
+    "name": "Degerfors IF",
+    "resolved_name": "Degerfors",
+    "domain": "degerforsif.se",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/wrytvq1429977939.png"
+  },
+  {
+    "league": "Allsvenskan",
+    "name": "Djurgårdens IF",
+    "resolved_name": "Djurgårdens IF",
+    "domain": "difhockey.se",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/eoxtmh1644937914.png"
+  },
+  {
+    "league": "Allsvenskan",
+    "name": "GAIS",
+    "resolved_name": "GAIS",
+    "domain": "gais.se",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/3pahks1639779139.png"
+  },
+  {
+    "league": "Allsvenskan",
+    "name": "Halmstads BK",
+    "resolved_name": "Halmstad",
+    "domain": "hbk.se",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/26hnaj1639778271.png"
+  },
+  {
+    "league": "Allsvenskan",
+    "name": "Hammarby IF",
+    "resolved_name": "Hammarby IF Women",
+    "domain": "laget.se",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xsv7i31770062060.png"
+  },
+  {
+    "league": "Allsvenskan",
+    "name": "IF Brommapojkarna",
+    "resolved_name": "Brommapojkarna",
+    "domain": "bpfotboll.se",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/nwr81l1639779730.png"
+  },
+  {
+    "league": "Allsvenskan",
+    "name": "IF Elfsborg",
+    "resolved_name": "Elfsborg",
+    "domain": "elfsborg.se",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/svqvqq1421957626.png"
+  },
+  {
+    "league": "Allsvenskan",
+    "name": "IFK Göteborg",
+    "resolved_name": "IFK Göteborg",
+    "domain": "ifkgoteborg.se",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ywyxtp1429470529.png"
+  },
+  {
+    "league": "Allsvenskan",
+    "name": "IK Sirius",
+    "resolved_name": "Sirius",
+    "domain": "siriusfotboll.se",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/yryyvr1429976751.png"
+  },
+  {
+    "league": "Allsvenskan",
+    "name": "Kalmar FF",
+    "resolved_name": "Kalmar",
+    "domain": "kalmarff.se",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/3tnu4i1688449562.png"
+  },
+  {
+    "league": "Allsvenskan",
+    "name": "Malmö FF",
+    "resolved_name": "Malmö FF Women",
+    "domain": "mff.se",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/bpx8gk1738226331.png"
+  },
+  {
+    "league": "Allsvenskan",
+    "name": "Mjällby AIF",
+    "resolved_name": "Mjällby",
+    "domain": "maif.se",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ruwqxv1430239112.png"
+  },
+  {
+    "league": "Allsvenskan",
+    "name": "Västerås SK",
+    "resolved_name": "Västerås",
+    "domain": "vskfotboll.nu",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/mscha61644586515.png"
+  },
+  {
+    "league": "Eliteserien",
+    "name": "Aalesund",
+    "resolved_name": "Aalesund",
+    "domain": "aafk.no",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/s1br7q1602448285.png"
+  },
+  {
+    "league": "Eliteserien",
+    "name": "Brann",
+    "resolved_name": "Brann",
+    "domain": "brann.no",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ovuad71690695412.png"
+  },
+  {
+    "league": "Eliteserien",
+    "name": "Fredrikstad",
+    "resolved_name": "Fredrikstad",
+    "domain": "fredrikstadfk.no",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/9se6qv1690695269.png"
+  },
+  {
+    "league": "Eliteserien",
+    "name": "HamKam",
+    "resolved_name": "Hamarkameratene",
+    "domain": "hamkam.no",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/zft1oc1639776721.png"
+  },
+  {
+    "league": "Eliteserien",
+    "name": "Kristiansund",
+    "resolved_name": "Kristiansund",
+    "domain": "kristiansundbk.no",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/wzrjhc1690695847.png"
+  },
+  {
+    "league": "Eliteserien",
+    "name": "Lillestrøm",
+    "resolved_name": "Lillestrøm",
+    "domain": "lsk.no",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/txpuvv1448823342.png"
+  },
+  {
+    "league": "Eliteserien",
+    "name": "Molde",
+    "resolved_name": "Molde",
+    "domain": "moldefk.no",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/apziyg1534866527.png"
+  },
+  {
+    "league": "Eliteserien",
+    "name": "Rosenborg",
+    "resolved_name": "Rosenborg",
+    "domain": "rbk.no",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/z483ps1764866361.png"
+  },
+  {
+    "league": "Eliteserien",
+    "name": "Sandefjord",
+    "resolved_name": "Sandefjord",
+    "domain": "sandefjordfotball.no",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/3tzlt31691821291.png"
+  },
+  {
+    "league": "Eliteserien",
+    "name": "Sarpsborg 08",
+    "resolved_name": "Sarpsborg 08",
+    "domain": "sarpsborg08.no",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/pxrf831534869388.png"
+  },
+  {
+    "league": "Eliteserien",
+    "name": "Start",
+    "resolved_name": "Start",
+    "domain": "ikstart.no",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/7hf7vl1734069002.png"
+  },
+  {
+    "league": "Eliteserien",
+    "name": "Tromsø",
+    "resolved_name": "Tromsø",
+    "domain": "til.no",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/sb24al1764644259.png"
+  },
+  {
+    "league": "Danish Superliga",
+    "name": "Copenhagen",
+    "resolved_name": "Copenhagen",
+    "domain": "fck.dk",
+    "badge": ""
+  },
+  {
+    "league": "Danish Superliga",
+    "name": "AGF",
+    "resolved_name": "AGF",
+    "domain": "agf.dk",
+    "badge": ""
+  },
+  {
+    "league": "Eliteserien",
+    "name": "Vålerenga",
+    "resolved_name": "Vålerenga",
+    "domain": "vif-fotball.no",
+    "badge": ""
+  },
+  {
+    "league": "Eliteserien",
+    "name": "Bodø/Glimt",
+    "resolved_name": "Bodø/Glimt",
+    "domain": "glimt.no",
+    "badge": ""
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Racing Club",
+    "resolved_name": "Racing Club",
+    "domain": "racingclub.com.ar",
+    "badge": ""
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Lanús",
+    "resolved_name": "Lanús",
+    "domain": "clublanus.com.ar",
+    "badge": ""
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Newell's Old Boys",
+    "resolved_name": "Newell's Old Boys",
+    "domain": "canob.com.ar",
+    "badge": ""
+  },
+  {
+    "league": "Liga MX",
+    "name": "Necaxa",
+    "resolved_name": "Necaxa",
+    "domain": "clubnecaxa.mx",
+    "badge": ""
+  },
+  {
+    "league": "Super League Greece",
+    "name": "Aris Thessaloniki",
+    "resolved_name": "Aris Thessaloniki",
+    "domain": "aris.gr",
+    "badge": ""
   }
 ]

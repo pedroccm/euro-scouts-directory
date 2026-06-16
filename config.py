@@ -273,6 +273,40 @@ LEAGUES = {
         "SK Rapid Wien", "Red Bull Salzburg", "SC Rheindorf Altach", "SV Ried",
         "SK Sturm Graz", "TSV Hartberg", "WSG Tirol", "Wolfsberger AC",
     ],
+    # Dinamarca — Superliga 2025/26 (12)
+    "Danish Superliga": [
+        "AGF", "Brøndby", "Copenhagen", "Fredericia", "Midtjylland",
+        "Nordsjælland", "OB", "Randers", "Silkeborg", "Sønderjyske", "Vejle",
+        "Viborg",
+    ],
+    # Polônia — Ekstraklasa 2025/26 (18)
+    "Ekstraklasa": [
+        "Arka Gdynia", "Termalica Nieciecza", "Cracovia", "GKS Katowice",
+        "Górnik Zabrze", "Jagiellonia Białystok", "Korona Kielce",
+        "Lech Poznań", "Lechia Gdańsk", "Legia Warsaw", "Motor Lublin",
+        "Piast Gliwice", "Pogoń Szczecin", "Radomiak Radom",
+        "Raków Częstochowa", "Widzew Łódź", "Wisła Płock", "Zagłębie Lubin",
+    ],
+    # México — Liga MX 2025/26 (18)
+    "Liga MX": [
+        "América", "Atlas", "Atlético San Luis", "Cruz Azul", "Guadalajara",
+        "Juárez", "León", "Mazatlán", "Monterrey", "Necaxa", "Pachuca",
+        "Puebla", "Querétaro", "Santos Laguna", "Tijuana", "Toluca", "Tigres",
+        "Pumas UNAM",
+    ],
+    # Suécia — Allsvenskan 2026 (16)
+    "Allsvenskan": [
+        "AIK", "BK Häcken", "Degerfors IF", "Djurgårdens IF", "GAIS",
+        "Halmstads BK", "Hammarby IF", "IF Brommapojkarna", "IF Elfsborg",
+        "IFK Göteborg", "IK Sirius", "Kalmar FF", "Malmö FF", "Mjällby AIF",
+        "Västerås SK", "Örgryte IS",
+    ],
+    # Noruega — Eliteserien 2026 (16)
+    "Eliteserien": [
+        "Aalesund", "Bodø/Glimt", "Brann", "Fredrikstad", "HamKam",
+        "KFUM Oslo", "Kristiansund", "Lillestrøm", "Molde", "Rosenborg",
+        "Sandefjord", "Sarpsborg 08", "Start", "Tromsø", "Vålerenga", "Viking",
+    ],
 }
 
 # Overrides manuais de domínio (caso o TheSportsDB não resolva ou traga errado).
@@ -348,4 +382,9 @@ FED_ALIASES = {
     "ARG": "Liga Profesional Argentina", "ARGENTINA": "Liga Profesional Argentina",
     "SUI": "Swiss Super League", "SWISS": "Swiss Super League", "SUICA": "Swiss Super League", "SWITZERLAND": "Swiss Super League",
     "AUT": "Austrian Bundesliga", "AUSTRIA": "Austrian Bundesliga",
+    "DEN": "Danish Superliga", "DENMARK": "Danish Superliga", "DINAMARCA": "Danish Superliga",
+    "POL": "Ekstraklasa", "POLAND": "Ekstraklasa", "POLONIA": "Ekstraklasa", "EKSTRAKLASA": "Ekstraklasa",
+    "MEX": "Liga MX", "MEXICO": "Liga MX", "LIGAMX": "Liga MX",
+    "SWE": "Allsvenskan", "SWEDEN": "Allsvenskan", "SUECIA": "Allsvenskan", "ALLSVENSKAN": "Allsvenskan",
+    "NOR": "Eliteserien", "NORWAY": "Eliteserien", "NORUEGA": "Eliteserien", "ELITESERIEN": "Eliteserien",
 }
