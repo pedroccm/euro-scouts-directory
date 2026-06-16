@@ -109,6 +109,14 @@ LEAGUES = {
         "Seattle Sounders", "Sporting Kansas City", "St. Louis City SC",
         "Toronto FC", "Vancouver Whitecaps",
     ],
+    # Eredivisie 2025/26 (18 clubes)
+    "Eredivisie": [
+        "Ajax", "AZ Alkmaar", "Excelsior Rotterdam", "Feyenoord",
+        "Fortuna Sittard", "Go Ahead Eagles", "FC Groningen",
+        "Heracles Almelo", "NAC Breda", "NEC Nijmegen", "PEC Zwolle",
+        "PSV Eindhoven", "Sparta Rotterdam", "SC Telstar", "FC Twente",
+        "FC Utrecht", "FC Volendam", "sc Heerenveen",
+    ],
 }
 
 # Overrides manuais de domínio (caso o TheSportsDB não resolva ou traga errado).
@@ -127,6 +135,9 @@ DOMAIN_OVERRIDES = {
     # MLS: TheSportsDB casou time errado / domínio não-canônico
     "St. Louis City SC": "stlcitysc.com",   # vinha loucity.com (= Louisville City, outro clube)
     "Chicago Fire": "chicagofirefc.com",     # vinha chicago-fire.com
+    # Eredivisie
+    "Excelsior Rotterdam": "sbvexcelsior.nl",  # não resolveu
+    "FC Groningen": "fcgroningen.nl",          # vinha donar.nl (= Donar, clube de basquete)
 }
 
 # Federações válidas pro --only (alias = nome da liga)
@@ -137,4 +148,5 @@ FED_ALIASES = {
     "BUNDESLIGA": "Bundesliga", "BL": "Bundesliga",
     "LIGUE1": "Ligue 1", "L1": "Ligue 1",
     "MLS": "MLS", "USA": "MLS",
+    "EREDIVISIE": "Eredivisie", "NL": "Eredivisie", "HOLANDA": "Eredivisie", "NED": "Eredivisie",
 }

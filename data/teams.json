@@ -880,5 +880,131 @@
     "resolved_name": "Vancouver Whitecaps",
     "domain": "whitecapsfc.com",
     "badge": "https://r2.thesportsdb.com/images/media/team/badge/tpwxpy1473536521.png"
+  },
+  {
+    "league": "Eredivisie",
+    "name": "Ajax",
+    "resolved_name": "Ajax",
+    "domain": "ajax.nl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/zg9tii1755495289.png"
+  },
+  {
+    "league": "Eredivisie",
+    "name": "AZ Alkmaar",
+    "resolved_name": "AZ Alkmaar",
+    "domain": "az.nl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/wtqwvv1473534757.png"
+  },
+  {
+    "league": "Eredivisie",
+    "name": "Feyenoord",
+    "resolved_name": "Feyenoord",
+    "domain": "feyenoord.nl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/uturtx1473534803.png"
+  },
+  {
+    "league": "Eredivisie",
+    "name": "Fortuna Sittard",
+    "resolved_name": "Fortuna Sittard",
+    "domain": "fortunasittard.nl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/aqr7it1685596947.png"
+  },
+  {
+    "league": "Eredivisie",
+    "name": "Go Ahead Eagles",
+    "resolved_name": "Go Ahead Eagles",
+    "domain": "ga-eagles.nl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/3hq2cy1685597026.png"
+  },
+  {
+    "league": "Eredivisie",
+    "name": "FC Groningen",
+    "resolved_name": "Donar",
+    "domain": "fcgroningen.nl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/2z84q11737286269.png"
+  },
+  {
+    "league": "Eredivisie",
+    "name": "Heracles Almelo",
+    "resolved_name": "Heracles Almelo",
+    "domain": "heracles.nl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/vyyvss1473534851.png"
+  },
+  {
+    "league": "Eredivisie",
+    "name": "NAC Breda",
+    "resolved_name": "NAC Breda",
+    "domain": "nacbreda.nl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ute4en1544965805.png"
+  },
+  {
+    "league": "Eredivisie",
+    "name": "NEC Nijmegen",
+    "resolved_name": "NEC Nijmegen",
+    "domain": "nec-nijmegen.nl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/t5qjle1701019868.png"
+  },
+  {
+    "league": "Eredivisie",
+    "name": "PEC Zwolle",
+    "resolved_name": "PEC Zwolle",
+    "domain": "peczwolle.nl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/qpvqwy1473534822.png"
+  },
+  {
+    "league": "Eredivisie",
+    "name": "PSV Eindhoven",
+    "resolved_name": "PSV Eindhoven",
+    "domain": "psv.nl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png"
+  },
+  {
+    "league": "Eredivisie",
+    "name": "Sparta Rotterdam",
+    "resolved_name": "Sparta Rotterdam",
+    "domain": "sparta-rotterdam.nl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/upluv31586362224.png"
+  },
+  {
+    "league": "Eredivisie",
+    "name": "SC Telstar",
+    "resolved_name": "Telstar",
+    "domain": "sctelstar.nl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xg1ss31579463659.png"
+  },
+  {
+    "league": "Eredivisie",
+    "name": "FC Twente",
+    "resolved_name": "Twente",
+    "domain": "fctwente.nl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/rsrxrt1473534783.png"
+  },
+  {
+    "league": "Eredivisie",
+    "name": "FC Utrecht",
+    "resolved_name": "Utrecht",
+    "domain": "fcutrecht.nl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/yuhha71625167104.png"
+  },
+  {
+    "league": "Eredivisie",
+    "name": "FC Volendam",
+    "resolved_name": "Volendam",
+    "domain": "fcvolendam.nl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/rdouic1625167940.png"
+  },
+  {
+    "league": "Eredivisie",
+    "name": "sc Heerenveen",
+    "resolved_name": "Heerenveen",
+    "domain": "sc-heerenveen.nl",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/surtsx1473534841.png"
+  },
+  {
+    "league": "Eredivisie",
+    "name": "Excelsior Rotterdam",
+    "resolved_name": "Excelsior Rotterdam",
+    "domain": "sbvexcelsior.nl",
+    "badge": ""
   }
 ]
