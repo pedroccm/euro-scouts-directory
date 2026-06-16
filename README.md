@@ -16,12 +16,15 @@ estático** com busca e filtros. (1º build: 525 scouts, 86 clubes, 6 ligas.)
 
 - **Times:** rosters Big 5 2025/26 hardcoded em `config.py` (`LEAGUES`). O domínio
   oficial de cada clube é puxado da API do TheSportsDB (nunca inventado).
-- **Scouts:** a API do Apollo encontra os scouts mas **mascara nome e LinkedIn**;
-  por isso o scrape de verdade é feito pelo actor Apify
-  [`microworlds/leads-finder`](https://apify.com/microworlds/leads-finder)
-  (base B2B própria, US$ 1 / 1.000 leads), filtrando por `company_domains` +
-  `contact_job_titles`. Depois filtramos o ruído mantendo só cargos de scouting
-  (`config.SCOUT_KEEP`, multilíngue EN/ES/IT/DE/FR).
+- **Scouts — duas fontes (mescladas por LinkedIn):**
+  1. **Apify** [`microworlds/leads-finder`](https://apify.com/microworlds/leads-finder)
+     (`2_scrape_scouts.py`, US$ 1/1k) — boa pra ligas anglófonas.
+  2. **Apollo logado** (`2_scrape_apollo.py`) — a API por key mascara nome/LinkedIn,
+     então usamos a **API interna do site** (`app.apollo.io`) com **cookie de sessão**
+     (`apollo_cookies.json`, gitignored), que devolve nome+LinkedIn+foto sem máscara.
+     Cobre muito melhor FR/ES/IT/PT. Free plan limita a 5 páginas → raspa **por clube**.
+  Em ambas filtramos o ruído mantendo só cargos de scouting (`config.SCOUT_KEEP`,
+  multilíngue EN/ES/IT/DE/FR). Ex.: Ligue 1 saiu de 4 → 100 scouts ao usar o Apollo.
 - **Site:** HTML estático puro (sem framework), dados embutidos inline — abre
   direto no navegador ou publica no Netlify.
 
