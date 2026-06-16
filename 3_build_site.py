@@ -180,9 +180,36 @@ render();
 """
 
 
+def _norm_domain(d):
+    if not d:
+        return ""
+    d = str(d).strip().lower().split("://", 1)[-1].split("/", 1)[0]
+    return d[4:] if d.startswith("www.") else d
+
+
+def normalize_clubs(scouts):
+    """Unifica nome/ liga/ badge do clube pelo domínio (fontes Apify+Apollo usam
+    nomes diferentes pro mesmo time). Auto-corrige a cada build."""
+    teams_path = os.path.join(ROOT, "data", "teams.json")
+    if not os.path.exists(teams_path):
+        return scouts
+    with open(teams_path, encoding="utf-8") as f:
+        teams = json.load(f)
+    dom2 = {_norm_domain(t["domain"]): t for t in teams}
+    for r in scouts:
+        t = dom2.get(_norm_domain(r.get("club_domain")))
+        if t:
+            r["club"] = t["name"]
+            r["league"] = t["league"]
+            if not r.get("badge"):
+                r["badge"] = t.get("badge", "")
+    return scouts
+
+
 def main():
     with open(PUB, encoding="utf-8") as f:
         scouts = json.load(f)
+    scouts = normalize_clubs(scouts)
     clubs = len({s["club"] for s in scouts if s.get("club")})
     leagues = [l for l in config.LEAGUES if any(s["league"] == l for s in scouts)]
 

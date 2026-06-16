@@ -7,3 +7,9 @@ data/scouts_raw.json
 __pycache__/
 *.pyc
 .DS_Store
+
+# diagnósticos temporários
+data/_*.json
+
+# cookie de sessão Apollo — NUNCA subir
+apollo_cookies.json
