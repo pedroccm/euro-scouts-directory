@@ -27,6 +27,11 @@ import urllib.request
 
 import config
 
+try:  # stdout UTF-8 (Windows cp1252 quebra em nomes turcos/gregos)
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
+
 ROOT = os.path.dirname(__file__)
 DATA = os.path.join(ROOT, "data")
 TEAMS = os.path.join(DATA, "teams.json")

@@ -18,6 +18,11 @@ import urllib.request
 
 import config
 
+try:  # stdout UTF-8 (evita crash no Windows cp1252 com nomes turcos/gregos)
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
+
 DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
 OUT = os.path.join(DATA_DIR, "teams.json")
 BASE = f"https://www.thesportsdb.com/api/v1/json/{config.THESPORTSDB_KEY}/searchteams.php?t="

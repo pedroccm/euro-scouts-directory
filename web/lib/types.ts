@@ -31,4 +31,11 @@ export const LEAGUE_ORDER = [
   "Belgian Pro League",
   "Ukrainian Premier League",
   "Cypriot First Division",
+  "Scottish Premiership",
+  "Super League Greece",
+  "Süper Lig",
+  "Saudi Pro League",
+  "Liga Profesional Argentina",
+  "Swiss Super League",
+  "Austrian Bundesliga",
 ];

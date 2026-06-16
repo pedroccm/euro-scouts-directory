@@ -222,6 +222,57 @@ LEAGUES = {
         "Enosis Neon Paralimni", "Ethnikos Achna", "Krasava",
         "Olympiakos Nicosia", "Omonia Nicosia", "Omonia Aradippou", "Pafos",
     ],
+    # Escócia — Premiership 2025/26 (12)
+    "Scottish Premiership": [
+        "Aberdeen", "Celtic", "Dundee", "Dundee United", "Falkirk",
+        "Heart of Midlothian", "Hibernian", "Kilmarnock", "Livingston",
+        "Motherwell", "Rangers", "St Mirren",
+    ],
+    # Grécia — Super League 2025/26 (14)
+    "Super League Greece": [
+        "AEK Athens", "AE Kifisia", "AEL Larissa", "Aris Thessaloniki",
+        "Asteras Tripolis", "Atromitos", "Levadiakos", "OFI Crete",
+        "Olympiacos", "Panathinaikos", "Panetolikos", "Panserraikos",
+        "PAOK", "Volos",
+    ],
+    # Turquia — Süper Lig 2025/26 (18)
+    "Süper Lig": [
+        "Alanyaspor", "Antalyaspor", "Beşiktaş", "Eyüpspor",
+        "Fatih Karagümrük", "Fenerbahçe", "Galatasaray", "Gaziantep",
+        "Gençlerbirliği", "Göztepe", "İstanbul Başakşehir", "Kasımpaşa",
+        "Kayserispor", "Kocaelispor", "Konyaspor", "Rizespor", "Samsunspor",
+        "Trabzonspor",
+    ],
+    # Arábia Saudita — Pro League 2025/26 (18)
+    "Saudi Pro League": [
+        "Al-Ahli", "Al-Ettifaq", "Al-Fateh", "Al-Fayha", "Al-Hazem",
+        "Al-Hilal", "Al-Ittihad", "Al-Khaleej", "Al-Kholood", "Al-Najma",
+        "Al-Nassr", "Al-Okhdood", "Al-Qadsiah", "Al-Riyadh", "Al-Shabab",
+        "Al-Taawoun", "Damac", "Neom SC",
+    ],
+    # Argentina — Liga Profesional 2025 (30)
+    "Liga Profesional Argentina": [
+        "Aldosivi", "Argentinos Juniors", "Atlético Tucumán", "Banfield",
+        "Barracas Central", "Belgrano", "Boca Juniors", "Central Córdoba",
+        "Defensa y Justicia", "Deportivo Riestra", "Estudiantes de La Plata",
+        "Gimnasia y Esgrima La Plata", "Godoy Cruz", "Huracán", "Independiente",
+        "Independiente Rivadavia", "Instituto", "Lanús", "Newell's Old Boys",
+        "Platense", "Racing Club", "River Plate", "Rosario Central",
+        "San Lorenzo", "San Martín de San Juan", "Sarmiento", "Talleres",
+        "Tigre", "Unión", "Vélez Sarsfield",
+    ],
+    # Suíça — Super League 2025/26 (12)
+    "Swiss Super League": [
+        "Basel", "Grasshopper", "Lausanne-Sport", "Lugano", "Luzern",
+        "Servette", "Sion", "St. Gallen", "Thun", "Winterthur", "Young Boys",
+        "Zürich",
+    ],
+    # Áustria — Bundesliga 2025/26 (12)  [nome distinto da alemã]
+    "Austrian Bundesliga": [
+        "Austria Wien", "Blau-Weiß Linz", "Grazer AK", "LASK",
+        "SK Rapid Wien", "Red Bull Salzburg", "SC Rheindorf Altach", "SV Ried",
+        "SK Sturm Graz", "TSV Hartberg", "WSG Tirol", "Wolfsberger AC",
+    ],
 }
 
 # Overrides manuais de domínio (caso o TheSportsDB não resolva ou traga errado).
@@ -290,4 +341,11 @@ FED_ALIASES = {
     "UKR": "Ukrainian Premier League", "UKRAINE": "Ukrainian Premier League", "UPL": "Ukrainian Premier League",
     "BEL": "Belgian Pro League", "BELGIUM": "Belgian Pro League", "BELGICA": "Belgian Pro League", "JUPILER": "Belgian Pro League",
     "CYP": "Cypriot First Division", "CYPRUS": "Cypriot First Division", "CHIPRE": "Cypriot First Division",
+    "SCO": "Scottish Premiership", "SCOTLAND": "Scottish Premiership", "ESCOCIA": "Scottish Premiership",
+    "GRE": "Super League Greece", "GREECE": "Super League Greece", "GRECIA": "Super League Greece",
+    "TUR": "Süper Lig", "TURKEY": "Süper Lig", "TURQUIA": "Süper Lig", "SUPERLIG": "Süper Lig",
+    "SAU": "Saudi Pro League", "SAUDI": "Saudi Pro League", "ARABIA": "Saudi Pro League", "KSA": "Saudi Pro League",
+    "ARG": "Liga Profesional Argentina", "ARGENTINA": "Liga Profesional Argentina",
+    "SUI": "Swiss Super League", "SWISS": "Swiss Super League", "SUICA": "Swiss Super League", "SWITZERLAND": "Swiss Super League",
+    "AUT": "Austrian Bundesliga", "AUSTRIA": "Austrian Bundesliga",
 }

@@ -11,8 +11,14 @@ Saída: site/index.html  (+ site/data.json para referência)
 import datetime
 import json
 import os
+import sys
 
 import config
+
+try:  # stdout UTF-8 (Windows cp1252 quebra em nomes turcos/gregos)
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
 
 ROOT = os.path.dirname(__file__)
 PUB = os.path.join(ROOT, "data", "scouts.json")

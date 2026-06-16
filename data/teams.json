@@ -2392,5 +2392,663 @@
     "resolved_name": "APOEL",
     "domain": "apoelfc.com.cy",
     "badge": ""
+  },
+  {
+    "league": "Scottish Premiership",
+    "name": "Aberdeen",
+    "resolved_name": "Aberdeen",
+    "domain": "afc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/f9s6vg1781155578.png"
+  },
+  {
+    "league": "Scottish Premiership",
+    "name": "Celtic",
+    "resolved_name": "Celtic",
+    "domain": "celticfc.net",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/3uv1641758780002.png"
+  },
+  {
+    "league": "Scottish Premiership",
+    "name": "Dundee",
+    "resolved_name": "Dundee",
+    "domain": "dundeefc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/tlei9x1750743461.png"
+  },
+  {
+    "league": "Scottish Premiership",
+    "name": "Dundee United",
+    "resolved_name": "Dundee United",
+    "domain": "dufc.co",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/orfh821655722356.png"
+  },
+  {
+    "league": "Scottish Premiership",
+    "name": "Falkirk",
+    "resolved_name": "Falkirk",
+    "domain": "falkirkfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/w37ucy1685023169.png"
+  },
+  {
+    "league": "Scottish Premiership",
+    "name": "Heart of Midlothian",
+    "resolved_name": "Heart of Midlothian",
+    "domain": "heartsfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/twqvyt1447597939.png"
+  },
+  {
+    "league": "Scottish Premiership",
+    "name": "Hibernian",
+    "resolved_name": "Hibernian",
+    "domain": "hibernianfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/qjys3z1684928969.png"
+  },
+  {
+    "league": "Scottish Premiership",
+    "name": "Kilmarnock",
+    "resolved_name": "Kilmarnock",
+    "domain": "kilmarnockfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xssqtu1447596951.png"
+  },
+  {
+    "league": "Scottish Premiership",
+    "name": "Livingston",
+    "resolved_name": "Livingston",
+    "domain": "livingstonfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/1o38ll1749203191.png"
+  },
+  {
+    "league": "Scottish Premiership",
+    "name": "Motherwell",
+    "resolved_name": "Motherwell",
+    "domain": "motherwellfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/vsysqx1447598301.png"
+  },
+  {
+    "league": "Scottish Premiership",
+    "name": "Rangers",
+    "resolved_name": "Rangers",
+    "domain": "rangers.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ti24j61614290048.png"
+  },
+  {
+    "league": "Scottish Premiership",
+    "name": "St Mirren",
+    "resolved_name": "St Mirren",
+    "domain": "saintmirren.net",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xvtuvv1447604452.png"
+  },
+  {
+    "league": "Super League Greece",
+    "name": "AEK Athens",
+    "resolved_name": "AEK Athens",
+    "domain": "aekfc.gr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/4nogst1602773624.png"
+  },
+  {
+    "league": "Super League Greece",
+    "name": "AEL Larissa",
+    "resolved_name": "AEL",
+    "domain": "aelfc.gr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/3gbfyf1755610003.png"
+  },
+  {
+    "league": "Super League Greece",
+    "name": "Asteras Tripolis",
+    "resolved_name": "Asteras Tripolis",
+    "domain": "asterastripolis.gr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/u2c3sg1728396949.png"
+  },
+  {
+    "league": "Super League Greece",
+    "name": "Atromitos",
+    "resolved_name": "Atromitos",
+    "domain": "atromitosfc.gr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/adh2j01602774237.png"
+  },
+  {
+    "league": "Super League Greece",
+    "name": "Levadiakos",
+    "resolved_name": "Levadiakos",
+    "domain": "levadiakos.gr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/csu6c61659016057.png"
+  },
+  {
+    "league": "Super League Greece",
+    "name": "OFI Crete",
+    "resolved_name": "OFI",
+    "domain": "oficretefc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/02xrl91602773672.png"
+  },
+  {
+    "league": "Super League Greece",
+    "name": "Olympiacos",
+    "resolved_name": "Olympiacos",
+    "domain": "olympiacos.org",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xckasq1721291508.png"
+  },
+  {
+    "league": "Super League Greece",
+    "name": "Panathinaikos",
+    "resolved_name": "Panathinaikos",
+    "domain": "pao.gr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/vtpwwt1448208397.png"
+  },
+  {
+    "league": "Super League Greece",
+    "name": "Panetolikos",
+    "resolved_name": "Panetolikos",
+    "domain": "panetolikos.gr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/3qtv8s1602773680.png"
+  },
+  {
+    "league": "Super League Greece",
+    "name": "Panserraikos",
+    "resolved_name": "Panserraikos",
+    "domain": "paepanserraikos.gr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/uz7slk1689689598.png"
+  },
+  {
+    "league": "Super League Greece",
+    "name": "PAOK",
+    "resolved_name": "PAOK",
+    "domain": "paokfc.gr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/m15zsh1602774126.png"
+  },
+  {
+    "league": "Super League Greece",
+    "name": "Volos",
+    "resolved_name": "Volos",
+    "domain": "volosnfc.gr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/d73m0n1602773666.png"
+  },
+  {
+    "league": "Süper Lig",
+    "name": "Antalyaspor",
+    "resolved_name": "Antalyaspor",
+    "domain": "antalyaspor.com.tr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/vqoral1601669436.png"
+  },
+  {
+    "league": "Süper Lig",
+    "name": "Beşiktaş",
+    "resolved_name": "Beşiktaş",
+    "domain": "bjk.com.tr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/svo05k1776827439.png"
+  },
+  {
+    "league": "Süper Lig",
+    "name": "Eyüpspor",
+    "resolved_name": "Eyüpspor",
+    "domain": "eyupspor.org.tr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/7fb0ub1626445710.png"
+  },
+  {
+    "league": "Süper Lig",
+    "name": "Fatih Karagümrük",
+    "resolved_name": "Fatih Karagümrük",
+    "domain": "karagumruk.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/bfb84y1580847945.png"
+  },
+  {
+    "league": "Süper Lig",
+    "name": "Fenerbahçe",
+    "resolved_name": "Fenerbahçe",
+    "domain": "fenerbahce.org",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+  },
+  {
+    "league": "Süper Lig",
+    "name": "Galatasaray",
+    "resolved_name": "Galatasaray",
+    "domain": "galatasaray.org",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+  },
+  {
+    "league": "Süper Lig",
+    "name": "Gaziantep",
+    "resolved_name": "Gaziantep",
+    "domain": "gazisehirgaziantepfk.org",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/54j6ik1579458093.png"
+  },
+  {
+    "league": "Süper Lig",
+    "name": "Gençlerbirliği",
+    "resolved_name": "Gençlerbirliği",
+    "domain": "genclerbirligi.org.tr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/5hnd1c1639569938.png"
+  },
+  {
+    "league": "Süper Lig",
+    "name": "Göztepe",
+    "resolved_name": "Göztepe",
+    "domain": "goztepe.org.tr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/9jwk7o1513952059.png"
+  },
+  {
+    "league": "Süper Lig",
+    "name": "İstanbul Başakşehir",
+    "resolved_name": "İstanbul Başakşehir",
+    "domain": "ibfk.com.tr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/895mqt1685993958.png"
+  },
+  {
+    "league": "Süper Lig",
+    "name": "Kasımpaşa",
+    "resolved_name": "Kasımpaşa",
+    "domain": "kasimpasaspor.org.tr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/uryxtp1448203236.png"
+  },
+  {
+    "league": "Süper Lig",
+    "name": "Kayserispor",
+    "resolved_name": "Kayserispor",
+    "domain": "kayserispor.org.tr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/bvskgi1601668985.png"
+  },
+  {
+    "league": "Süper Lig",
+    "name": "Kocaelispor",
+    "resolved_name": "Kocaelispor",
+    "domain": "kocaelispor.com.tr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/f6erki1626445224.png"
+  },
+  {
+    "league": "Süper Lig",
+    "name": "Rizespor",
+    "resolved_name": "Rizespor",
+    "domain": "caykurrizespor.org.tr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/t7senr1657195719.png"
+  },
+  {
+    "league": "Süper Lig",
+    "name": "Samsunspor",
+    "resolved_name": "Samsunspor",
+    "domain": "samsunspor.org.tr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/vz05y71679456608.png"
+  },
+  {
+    "league": "Süper Lig",
+    "name": "Trabzonspor",
+    "resolved_name": "Trabzonspor",
+    "domain": "trabzonspor.org.tr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/96s34o1776827629.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Aldosivi",
+    "resolved_name": "Aldosivi",
+    "domain": "aldosivi.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/nqrjqb1517767667.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Argentinos Juniors",
+    "resolved_name": "Argentinos Juniors",
+    "domain": "argentinosjuniors.com.ar",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/uqfjuo1769234850.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Atlético Tucumán",
+    "resolved_name": "Atlético Tucumán",
+    "domain": "clubatleticotucuman.com.ar",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/m5i2q21775755577.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Banfield",
+    "resolved_name": "Banfield",
+    "domain": "clubabanfield.org",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/c2ea011775756104.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Barracas Central",
+    "resolved_name": "Barracas Central",
+    "domain": "barracascentral.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/rbkjba1707458543.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Belgrano",
+    "resolved_name": "Belgrano",
+    "domain": "belgrano.com.ar",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Boca Juniors",
+    "resolved_name": "Boca Juniors",
+    "domain": "bocajuniors.com.ar",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/bm7krb1775741582.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Defensa y Justicia",
+    "resolved_name": "Defensa y Justicia",
+    "domain": "defensayjusticia.org.ar",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/3guvlh1775778978.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Deportivo Riestra",
+    "resolved_name": "Deportivo Riestra",
+    "domain": "clubdeportivoriestra.wordpress.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/332h0l1578824392.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Estudiantes de La Plata",
+    "resolved_name": "Estudiantes de La Plata",
+    "domain": "estudiantesdelaplata.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/pf08dq1760634366.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Gimnasia y Esgrima La Plata",
+    "resolved_name": "Gimnasia y Esgrima de La Plata",
+    "domain": "gimnasia.org.ar",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/dtqto61775838814.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Godoy Cruz",
+    "resolved_name": "Godoy Cruz",
+    "domain": "clubgodoycruz.com.ar",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/d3c0ds1517768584.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Huracán",
+    "resolved_name": "Huracán",
+    "domain": "cahuracan.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/kppi2b1775776550.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Independiente",
+    "resolved_name": "Independiente",
+    "domain": "clubaindependiente.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Independiente Rivadavia",
+    "resolved_name": "Independiente Rivadavia",
+    "domain": "independienterivadavia.com.ar",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/qgzi2b1769406125.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Instituto",
+    "resolved_name": "Instituto",
+    "domain": "institutoacc.com.ar",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/jup59w1578825794.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Platense",
+    "resolved_name": "Platense",
+    "domain": "cap.org.ar",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/lbs14n1769317149.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "River Plate",
+    "resolved_name": "River Plate",
+    "domain": "cariverplate.com.ar",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Rosario Central",
+    "resolved_name": "Rosario Central",
+    "domain": "rosariocentral.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/y6q1ds1769660256.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "San Lorenzo",
+    "resolved_name": "San Lorenzo",
+    "domain": "sanlorenzo.com.ar",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/jih7hv1582229717.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "San Martín de San Juan",
+    "resolved_name": "San Martín de San Juan",
+    "domain": "casanmartinsj.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/l7j84h1517769215.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Sarmiento",
+    "resolved_name": "Sarmiento",
+    "domain": "clubatleticosarmiento.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xxofu71677634191.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Talleres",
+    "resolved_name": "Talleres de Córdoba",
+    "domain": "clubtalleres.com.ar",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/7hum2t1769310938.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Tigre",
+    "resolved_name": "Tigre",
+    "domain": "catigre.com.ar",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/krryg71765858882.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Unión",
+    "resolved_name": "Unión",
+    "domain": "clubaunion.com.ar",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/btnx6q1734587495.png"
+  },
+  {
+    "league": "Liga Profesional Argentina",
+    "name": "Vélez Sarsfield",
+    "resolved_name": "Vélez Sarsfield",
+    "domain": "velez.com.ar",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/jo98m71517769587.png"
+  },
+  {
+    "league": "Swiss Super League",
+    "name": "Basel",
+    "resolved_name": "Basel",
+    "domain": "fcb.ch",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xppxwr1473791183.png"
+  },
+  {
+    "league": "Swiss Super League",
+    "name": "Grasshopper",
+    "resolved_name": "Grasshoppers",
+    "domain": "gcz.ch",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/o8vms91779213403.png"
+  },
+  {
+    "league": "Swiss Super League",
+    "name": "Lugano",
+    "resolved_name": "Lugano",
+    "domain": "fclugano.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/2kh2if1567615581.png"
+  },
+  {
+    "league": "Swiss Super League",
+    "name": "Luzern",
+    "resolved_name": "Luzern",
+    "domain": "fcl.ch",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/rsupty1473587847.png"
+  },
+  {
+    "league": "Swiss Super League",
+    "name": "Servette",
+    "resolved_name": "Servette",
+    "domain": "servettefc.ch",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/440wv71692206330.png"
+  },
+  {
+    "league": "Swiss Super League",
+    "name": "Sion",
+    "resolved_name": "Sion",
+    "domain": "fcsion.ch",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/gzpfmv1689085319.png"
+  },
+  {
+    "league": "Swiss Super League",
+    "name": "St. Gallen",
+    "resolved_name": "Brühl",
+    "domain": "scbruehl.ch",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/lsikmx1658414612.png"
+  },
+  {
+    "league": "Swiss Super League",
+    "name": "Thun",
+    "resolved_name": "Thun",
+    "domain": "fcthun.ch",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/sovjgl1699462359.png"
+  },
+  {
+    "league": "Swiss Super League",
+    "name": "Winterthur",
+    "resolved_name": "Winterthur",
+    "domain": "fcwinterthur.ch",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/bimd8z1580926541.png"
+  },
+  {
+    "league": "Swiss Super League",
+    "name": "Young Boys",
+    "resolved_name": "Young Boys",
+    "domain": "bscyb.ch",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/9mxdoo1534784569.png"
+  },
+  {
+    "league": "Swiss Super League",
+    "name": "Zürich",
+    "resolved_name": "Zürich",
+    "domain": "fcz.ch",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/af50gk1779213314.png"
+  },
+  {
+    "league": "Austrian Bundesliga",
+    "name": "Grazer AK",
+    "resolved_name": "Grazer AK",
+    "domain": "grazerak.at",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/43rocv1750352978.png"
+  },
+  {
+    "league": "Austrian Bundesliga",
+    "name": "LASK",
+    "resolved_name": "LASK",
+    "domain": "lask.at",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/oox26l1683556395.png"
+  },
+  {
+    "league": "Austrian Bundesliga",
+    "name": "SK Rapid Wien",
+    "resolved_name": "Rapid Vienna",
+    "domain": "skrapid.at",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/87y8id1779342351.png"
+  },
+  {
+    "league": "Austrian Bundesliga",
+    "name": "Red Bull Salzburg",
+    "resolved_name": "Red Bull Salzburg",
+    "domain": "redbullsalzburg.at",
+    "badge": "https://www.thesportsdb.com/images/media/team/badge/nc2cua1781541639.png"
+  },
+  {
+    "league": "Austrian Bundesliga",
+    "name": "SC Rheindorf Altach",
+    "resolved_name": "SCR Altach",
+    "domain": "scra.at",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/2hit6x1750352012.png"
+  },
+  {
+    "league": "Austrian Bundesliga",
+    "name": "SV Ried",
+    "resolved_name": "SV Ried",
+    "domain": "svried.at",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/c1bxyq1583516636.png"
+  },
+  {
+    "league": "Austrian Bundesliga",
+    "name": "SK Sturm Graz",
+    "resolved_name": "Sturm Graz",
+    "domain": "sksturm.at",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ppg0j71578585847.png"
+  },
+  {
+    "league": "Austrian Bundesliga",
+    "name": "TSV Hartberg",
+    "resolved_name": "TSV Hartberg",
+    "domain": "tsv-hartberg-fussball.at",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/72c0xg1578833261.png"
+  },
+  {
+    "league": "Austrian Bundesliga",
+    "name": "WSG Tirol",
+    "resolved_name": "WSG Tirol",
+    "domain": "wsg-fussball.at",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/9dmxk01685123856.png"
+  },
+  {
+    "league": "Austrian Bundesliga",
+    "name": "Wolfsberger AC",
+    "resolved_name": "Wolfsberger AC",
+    "domain": "rzpelletswac.at",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xcwuqt1568668946.png"
+  },
+  {
+    "league": "Süper Lig",
+    "name": "Konyaspor",
+    "resolved_name": "Konyaspor",
+    "domain": "konyaspor.org.tr",
+    "badge": ""
+  },
+  {
+    "league": "Swiss Super League",
+    "name": "Lausanne-Sport",
+    "resolved_name": "Lausanne-Sport",
+    "domain": "lausanne-sport.ch",
+    "badge": ""
+  },
+  {
+    "league": "Austrian Bundesliga",
+    "name": "Austria Wien",
+    "resolved_name": "Austria Wien",
+    "domain": "fk-austria.at",
+    "badge": ""
+  },
+  {
+    "league": "Saudi Pro League",
+    "name": "Al-Hilal",
+    "resolved_name": "Al-Hilal",
+    "domain": "alhilal.com",
+    "badge": ""
+  },
+  {
+    "league": "Saudi Pro League",
+    "name": "Al-Nassr",
+    "resolved_name": "Al-Nassr",
+    "domain": "alnassr.sa",
+    "badge": ""
+  },
+  {
+    "league": "Saudi Pro League",
+    "name": "Al-Fayha",
+    "resolved_name": "Al-Fayha",
+    "domain": "alfayhafc.com",
+    "badge": ""
+  },
+  {
+    "league": "Saudi Pro League",
+    "name": "Neom SC",
+    "resolved_name": "Neom SC",
+    "domain": "neomsc.com",
+    "badge": ""
   }
 ]

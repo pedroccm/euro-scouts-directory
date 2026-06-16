@@ -20,6 +20,13 @@ const LEAGUE_STYLES: Record<string, string> = {
   "Belgian Pro League": "bg-red-100 text-red-700 ring-red-600/20",
   "Ukrainian Premier League": "bg-sky-100 text-sky-700 ring-sky-600/20",
   "Cypriot First Division": "bg-orange-100 text-orange-700 ring-orange-600/20",
+  "Scottish Premiership": "bg-blue-100 text-blue-700 ring-blue-600/20",
+  "Super League Greece": "bg-cyan-100 text-cyan-700 ring-cyan-600/20",
+  "Süper Lig": "bg-red-100 text-red-700 ring-red-600/20",
+  "Saudi Pro League": "bg-green-100 text-green-700 ring-green-600/20",
+  "Liga Profesional Argentina": "bg-sky-100 text-sky-700 ring-sky-600/20",
+  "Swiss Super League": "bg-rose-100 text-rose-700 ring-rose-600/20",
+  "Austrian Bundesliga": "bg-red-100 text-red-700 ring-red-600/20",
 };
 
 export function LeagueBadge({
