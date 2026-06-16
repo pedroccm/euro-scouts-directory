@@ -1,8 +1,10 @@
 # Euro Scouts Directory
 
+🔗 **No ar:** https://euro-scouts-directory.netlify.app
+
 Pipeline que monta um **diretório de scouts** (olheiros / recrutamento) dos clubes
-das 5 principais ligas europeias (Big 5), achando o **LinkedIn** de cada um, e
-gera um **site estático** com busca e filtros.
+do **Big 5 europeu + MLS**, achando o **LinkedIn** de cada um, e gera um **site
+estático** com busca e filtros. (1º build: 525 scouts, 86 clubes, 6 ligas.)
 
 ## Como funciona
 
@@ -23,14 +25,32 @@ gera um **site estático** com busca e filtros.
 - **Site:** HTML estático puro (sem framework), dados embutidos inline — abre
   direto no navegador ou publica no Netlify.
 
+## Setup (segredos)
+
+Os tokens **não** ficam no repo. Copie o exemplo e preencha:
+
+```bash
+cp local_config.example.py local_config.py   # depois edite com seus tokens
+```
+
+`local_config.py` está no `.gitignore`. Alternativa: definir as env vars
+`APIFY_TOKEN` e `APOLLO_API_KEY`.
+
 ## Rodar
 
 ```bash
 cd E:\sites\euro-scouts
 python run_all.py                  # Big 5 completo
-python run_all.py --only PL LALIGA # só algumas ligas  (PL, LALIGA, SERIEA, BUNDESLIGA, LIGUE1)
+python run_all.py --only PL LALIGA # só algumas ligas  (PL, LALIGA, SERIEA, BUNDESLIGA, LIGUE1, MLS)
 python run_all.py --max 200        # teto de leads por liga (controla custo)
+
+# adicionar/atualizar uma liga sem re-raspar o resto:
+python 1_fetch_teams.py  --only MLS
+python 2_scrape_scouts.py --only MLS --append --max 450
+python 3_build_site.py
 ```
+
+Deploy é automático: `git push` → Netlify rebuilda (publish dir = `site/`).
 
 Ou passo a passo: `python 1_fetch_teams.py` → `python 2_scrape_scouts.py` → `python 3_build_site.py`.
 
