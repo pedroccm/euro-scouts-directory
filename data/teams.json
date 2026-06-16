@@ -2133,5 +2133,264 @@
     "resolved_name": "Sport",
     "domain": "sportrecife.com.br",
     "badge": ""
+  },
+  {
+    "league": "Ukrainian Premier League",
+    "name": "Dynamo Kyiv",
+    "resolved_name": "Dynamo Kyiv",
+    "domain": "fcdynamo.kiev.ua",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ktbncx1781158762.png"
+  },
+  {
+    "league": "Ukrainian Premier League",
+    "name": "Karpaty Lviv",
+    "resolved_name": "Karpaty Lviv",
+    "domain": "fckarpaty.lviv.ua",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/rsptsu1447696881.png"
+  },
+  {
+    "league": "Ukrainian Premier League",
+    "name": "Kolos Kovalivka",
+    "resolved_name": "Kolos Kovalivka",
+    "domain": "koloskovalivka.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/42hl731573324390.png"
+  },
+  {
+    "league": "Ukrainian Premier League",
+    "name": "Kryvbas Kryvyi Rih",
+    "resolved_name": "Kryvbas Kryvyi Rih",
+    "domain": "fckryvbas.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/2e11ks1681107496.png"
+  },
+  {
+    "league": "Ukrainian Premier League",
+    "name": "LNZ Cherkasy",
+    "resolved_name": "LNZ Cherkasy",
+    "domain": "fc-lnz.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/599dyl1660849995.png"
+  },
+  {
+    "league": "Ukrainian Premier League",
+    "name": "Metalist 1925 Kharkiv",
+    "resolved_name": "Metalist 1925 Kharkiv",
+    "domain": "metalist1925.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/btkpku1598282940.png"
+  },
+  {
+    "league": "Ukrainian Premier League",
+    "name": "Oleksandriya",
+    "resolved_name": "Oleksandriya",
+    "domain": "fco.com.ua",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/wrxkb41603126932.png"
+  },
+  {
+    "league": "Ukrainian Premier League",
+    "name": "Polissya Zhytomyr",
+    "resolved_name": "Polissya Zhytomyr",
+    "domain": "polissyafc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/6r8o5l1725171180.png"
+  },
+  {
+    "league": "Ukrainian Premier League",
+    "name": "Poltava",
+    "resolved_name": "Poltava",
+    "domain": "scpoltava.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/nefd6a1699461762.png"
+  },
+  {
+    "league": "Ukrainian Premier League",
+    "name": "Rukh Lviv",
+    "resolved_name": "Rukh Lviv",
+    "domain": "fcrukh.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/0erwxi1597533225.png"
+  },
+  {
+    "league": "Ukrainian Premier League",
+    "name": "Shakhtar Donetsk",
+    "resolved_name": "Shakhtar Donetsk",
+    "domain": "shakhtar.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/sqrxsr1421791799.png"
+  },
+  {
+    "league": "Ukrainian Premier League",
+    "name": "Zorya Luhansk",
+    "resolved_name": "Zorya Luhansk",
+    "domain": "zarya-lugansk.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/vrqtvv1447700054.png"
+  },
+  {
+    "league": "Belgian Pro League",
+    "name": "Anderlecht",
+    "resolved_name": "Anderlecht",
+    "domain": "rsca.be",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/auindn1771129464.png"
+  },
+  {
+    "league": "Belgian Pro League",
+    "name": "Antwerp",
+    "resolved_name": "Antwerp",
+    "domain": "rafc.be",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/gawwcf1691182178.png"
+  },
+  {
+    "league": "Belgian Pro League",
+    "name": "Cercle Brugge",
+    "resolved_name": "Cercle Brugge",
+    "domain": "cerclebrugge.be",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/0v6uv41656017321.png"
+  },
+  {
+    "league": "Belgian Pro League",
+    "name": "Charleroi",
+    "resolved_name": "Charleroi",
+    "domain": "sporting-charleroi.be",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/cwf1zk1771129608.png"
+  },
+  {
+    "league": "Belgian Pro League",
+    "name": "Club Brugge",
+    "resolved_name": "Club Brugge",
+    "domain": "clubbrugge.be",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/mz8y0q1771129880.png"
+  },
+  {
+    "league": "Belgian Pro League",
+    "name": "Dender EH",
+    "resolved_name": "Dender",
+    "domain": "fcvdendereh.be",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/r4ihc61654884430.png"
+  },
+  {
+    "league": "Belgian Pro League",
+    "name": "Genk",
+    "resolved_name": "Genk",
+    "domain": "krcgenk.be",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/tp06te1534875918.png"
+  },
+  {
+    "league": "Belgian Pro League",
+    "name": "Gent",
+    "resolved_name": "Gent",
+    "domain": "kaagent.be",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/48e27o1750703124.png"
+  },
+  {
+    "league": "Belgian Pro League",
+    "name": "Mechelen",
+    "resolved_name": "Mechelen",
+    "domain": "kvmechelen.be",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/sxsxpt1447618693.png"
+  },
+  {
+    "league": "Belgian Pro League",
+    "name": "Standard Liège",
+    "resolved_name": "Standard Liège",
+    "domain": "standard.be",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/0ynlvb1771130035.png"
+  },
+  {
+    "league": "Belgian Pro League",
+    "name": "Westerlo",
+    "resolved_name": "Westerlo",
+    "domain": "kvcwesterlo.be",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xrxtrq1447620014.png"
+  },
+  {
+    "league": "Belgian Pro League",
+    "name": "Zulte Waregem",
+    "resolved_name": "Zulte Waregem",
+    "domain": "svzw.be",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/6mdsut1695740517.png"
+  },
+  {
+    "league": "Cypriot First Division",
+    "name": "AEK Larnaca",
+    "resolved_name": "AEK Larnaca",
+    "domain": "aek.com.cy",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/150a2b1544814418.png"
+  },
+  {
+    "league": "Cypriot First Division",
+    "name": "AEL Limassol",
+    "resolved_name": "AEL Limassol",
+    "domain": "ael-fc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/kijo451579035930.png"
+  },
+  {
+    "league": "Cypriot First Division",
+    "name": "Anorthosis Famagusta",
+    "resolved_name": "Anorthosis Famagusta",
+    "domain": "anorthosis.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/gwf24l1627657894.png"
+  },
+  {
+    "league": "Cypriot First Division",
+    "name": "Apollon Limassol",
+    "resolved_name": "Apollon Limassol",
+    "domain": "apollon.com.cy",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/17nj4k1511608842.png"
+  },
+  {
+    "league": "Cypriot First Division",
+    "name": "Olympiakos Nicosia",
+    "resolved_name": "Olympiakos Nicosia",
+    "domain": "olympiakos.com.cy",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/mmo0kb1678201580.png"
+  },
+  {
+    "league": "Cypriot First Division",
+    "name": "Omonia Nicosia",
+    "resolved_name": "Omonia Nicosia",
+    "domain": "acomonia.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/nmd7vt1779579017.png"
+  },
+  {
+    "league": "Cypriot First Division",
+    "name": "Omonia Aradippou",
+    "resolved_name": "Omonia Aradippou",
+    "domain": "omonoiaaradippou.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/a7kaix1615835243.png"
+  },
+  {
+    "league": "Cypriot First Division",
+    "name": "Pafos",
+    "resolved_name": "Pafos",
+    "domain": "pafosfc.com.cy",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xom9xf1579036010.png"
+  },
+  {
+    "league": "Belgian Pro League",
+    "name": "Union SG",
+    "resolved_name": "Union SG",
+    "domain": "rusg.brussels",
+    "badge": ""
+  },
+  {
+    "league": "Belgian Pro League",
+    "name": "Sint-Truiden",
+    "resolved_name": "Sint-Truiden",
+    "domain": "stvv.com",
+    "badge": ""
+  },
+  {
+    "league": "Belgian Pro League",
+    "name": "La Louvière",
+    "resolved_name": "La Louvière",
+    "domain": "raal.be",
+    "badge": ""
+  },
+  {
+    "league": "Belgian Pro League",
+    "name": "OH Leuven",
+    "resolved_name": "OH Leuven",
+    "domain": "ohleuven.be",
+    "badge": ""
+  },
+  {
+    "league": "Cypriot First Division",
+    "name": "APOEL",
+    "resolved_name": "APOEL",
+    "domain": "apoelfc.com.cy",
+    "badge": ""
   }
 ]

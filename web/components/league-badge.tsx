@@ -17,6 +17,9 @@ const LEAGUE_STYLES: Record<string, string> = {
   "Brasileirão Série B": "bg-teal-100 text-teal-700 ring-teal-600/20",
   "Brasileirão Série C": "bg-cyan-100 text-cyan-700 ring-cyan-600/20",
   "Brasileirão Série D": "bg-indigo-100 text-indigo-700 ring-indigo-600/20",
+  "Belgian Pro League": "bg-red-100 text-red-700 ring-red-600/20",
+  "Ukrainian Premier League": "bg-sky-100 text-sky-700 ring-sky-600/20",
+  "Cypriot First Division": "bg-orange-100 text-orange-700 ring-orange-600/20",
 };
 
 export function LeagueBadge({

@@ -28,4 +28,7 @@ export const LEAGUE_ORDER = [
   "Brasileirão Série B",
   "Brasileirão Série C",
   "Brasileirão Série D",
+  "Belgian Pro League",
+  "Ukrainian Premier League",
+  "Cypriot First Division",
 ];

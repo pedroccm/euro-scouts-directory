@@ -200,6 +200,28 @@ LEAGUES = {
         "Sousa", "Tocantinópolis", "Tombense", "Treze", "Tuna Luso",
         "Uberlândia", "Velo Clube", "XV de Piracicaba",
     ],
+    # Ucrânia — Premier League 2025/26 (16)
+    "Ukrainian Premier League": [
+        "Dynamo Kyiv", "Epitsentr Kamianets-Podilskyi", "Karpaty Lviv",
+        "Kolos Kovalivka", "Kryvbas Kryvyi Rih", "Kudrivka", "LNZ Cherkasy",
+        "Metalist 1925 Kharkiv", "Obolon Kyiv", "Oleksandriya",
+        "Polissya Zhytomyr", "Poltava", "Rukh Lviv", "Shakhtar Donetsk",
+        "Veres Rivne", "Zorya Luhansk",
+    ],
+    # Bélgica — Pro League 2025/26 (16)
+    "Belgian Pro League": [
+        "Anderlecht", "Antwerp", "Cercle Brugge", "Charleroi", "Club Brugge",
+        "Dender EH", "Genk", "Gent", "La Louvière", "Mechelen", "OH Leuven",
+        "Sint-Truiden", "Standard Liège", "Union SG", "Westerlo",
+        "Zulte Waregem",
+    ],
+    # Chipre — First Division 2025/26 (14)
+    "Cypriot First Division": [
+        "AEK Larnaca", "AEL Limassol", "Akritas Chlorakas",
+        "Anorthosis Famagusta", "APOEL", "Apollon Limassol", "Aris Limassol",
+        "Enosis Neon Paralimni", "Ethnikos Achna", "Krasava",
+        "Olympiakos Nicosia", "Omonia Nicosia", "Omonia Aradippou", "Pafos",
+    ],
 }
 
 # Overrides manuais de domínio (caso o TheSportsDB não resolva ou traga errado).
@@ -239,6 +261,12 @@ DOMAIN_OVERRIDES = {
     "São Bernardo": "saobernardofc.com.br",
     "Amazonas": "amazonasfc.com.br",
     "Sport": "sportrecife.com.br",
+    # Bélgica / Chipre — notáveis que o TheSportsDB não resolveu (verificados por HTTP)
+    "Union SG": "rusg.brussels",
+    "Sint-Truiden": "stvv.com",
+    "La Louvière": "raal.be",
+    "OH Leuven": "ohleuven.be",
+    "APOEL": "apoelfc.com.cy",
 }
 
 # Federações válidas pro --only (alias = nome da liga)
@@ -259,4 +287,7 @@ FED_ALIASES = {
     "BRB": "Brasileirão Série B", "BRASILEIRAOB": "Brasileirão Série B",
     "BRC": "Brasileirão Série C", "BRASILEIRAOC": "Brasileirão Série C",
     "BRD": "Brasileirão Série D", "BRASILEIRAOD": "Brasileirão Série D",
+    "UKR": "Ukrainian Premier League", "UKRAINE": "Ukrainian Premier League", "UPL": "Ukrainian Premier League",
+    "BEL": "Belgian Pro League", "BELGIUM": "Belgian Pro League", "BELGICA": "Belgian Pro League", "JUPILER": "Belgian Pro League",
+    "CYP": "Cypriot First Division", "CYPRUS": "Cypriot First Division", "CHIPRE": "Cypriot First Division",
 }
