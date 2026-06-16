@@ -1,0 +1,884 @@
+[
+  {
+    "league": "Premier League",
+    "name": "Arsenal",
+    "resolved_name": "Arsenal",
+    "domain": "arsenal.com",
+    "badge": ""
+  },
+  {
+    "league": "Premier League",
+    "name": "Aston Villa",
+    "resolved_name": "Aston Villa",
+    "domain": "avfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+  },
+  {
+    "league": "Premier League",
+    "name": "Bournemouth",
+    "resolved_name": "Bournemouth",
+    "domain": "afcb.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png"
+  },
+  {
+    "league": "Premier League",
+    "name": "Brentford",
+    "resolved_name": "Brentford",
+    "domain": "brentfordfc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png"
+  },
+  {
+    "league": "Premier League",
+    "name": "Brighton & Hove Albion",
+    "resolved_name": "Brighton and Hove Albion",
+    "domain": "seagulls.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
+  },
+  {
+    "league": "Premier League",
+    "name": "Burnley",
+    "resolved_name": "Burnley",
+    "domain": "burnleyfootballclub.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png"
+  },
+  {
+    "league": "Premier League",
+    "name": "Chelsea",
+    "resolved_name": "Chelsea",
+    "domain": "chelseafc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
+  },
+  {
+    "league": "Premier League",
+    "name": "Crystal Palace",
+    "resolved_name": "Crystal Palace",
+    "domain": "cpfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
+  },
+  {
+    "league": "Premier League",
+    "name": "Everton",
+    "resolved_name": "Everton",
+    "domain": "evertonfc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png"
+  },
+  {
+    "league": "Premier League",
+    "name": "Fulham",
+    "resolved_name": "Fulham",
+    "domain": "fulhamfc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
+  },
+  {
+    "league": "Premier League",
+    "name": "Leeds United",
+    "resolved_name": "Leeds United",
+    "domain": "leedsunited.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
+  },
+  {
+    "league": "Premier League",
+    "name": "Liverpool",
+    "resolved_name": "Liverpool",
+    "domain": "liverpoolfc.tv",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+  },
+  {
+    "league": "Premier League",
+    "name": "Manchester City",
+    "resolved_name": "Manchester City",
+    "domain": "mcfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+  },
+  {
+    "league": "Premier League",
+    "name": "Manchester United",
+    "resolved_name": "Manchester United",
+    "domain": "manutd.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+  },
+  {
+    "league": "Premier League",
+    "name": "Newcastle United",
+    "resolved_name": "Newcastle United",
+    "domain": "nufc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png"
+  },
+  {
+    "league": "Premier League",
+    "name": "Nottingham Forest",
+    "resolved_name": "Nottingham Forest",
+    "domain": "nottinghamforest.co.uk",
+    "badge": ""
+  },
+  {
+    "league": "Premier League",
+    "name": "Sunderland",
+    "resolved_name": "Sunderland",
+    "domain": "safc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png"
+  },
+  {
+    "league": "Premier League",
+    "name": "Tottenham Hotspur",
+    "resolved_name": "Tottenham Hotspur",
+    "domain": "tottenhamhotspur.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
+  },
+  {
+    "league": "Premier League",
+    "name": "West Ham United",
+    "resolved_name": "West Ham United",
+    "domain": "whufc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png"
+  },
+  {
+    "league": "Premier League",
+    "name": "Wolverhampton Wanderers",
+    "resolved_name": "Wolverhampton Wanderers",
+    "domain": "wolves.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png"
+  },
+  {
+    "league": "La Liga",
+    "name": "Athletic Bilbao",
+    "resolved_name": "Athletic Bilbao",
+    "domain": "athletic-club.eus",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/68w7fe1639408210.png"
+  },
+  {
+    "league": "La Liga",
+    "name": "Atletico Madrid",
+    "resolved_name": "Atlético Madrid",
+    "domain": "atleticodemadrid.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png"
+  },
+  {
+    "league": "La Liga",
+    "name": "Barcelona",
+    "resolved_name": "Barcelona",
+    "domain": "fcbarcelona.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
+  },
+  {
+    "league": "La Liga",
+    "name": "Celta Vigo",
+    "resolved_name": "Celta Vigo",
+    "domain": "rccelta.es",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xfjtku1690436219.png"
+  },
+  {
+    "league": "La Liga",
+    "name": "Deportivo Alaves",
+    "resolved_name": "Deportivo Alavés",
+    "domain": "deportivoalaves.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/mfn99h1734673842.png"
+  },
+  {
+    "league": "La Liga",
+    "name": "Elche",
+    "resolved_name": "Elche",
+    "domain": "elchecf.es",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/e4vaw51655594332.png"
+  },
+  {
+    "league": "La Liga",
+    "name": "Espanyol",
+    "resolved_name": "Espanyol",
+    "domain": "rcdespanyol.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/867nzz1681703222.png"
+  },
+  {
+    "league": "La Liga",
+    "name": "Getafe",
+    "resolved_name": "Getafe",
+    "domain": "getafecf.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/eyh2891655594452.png"
+  },
+  {
+    "league": "La Liga",
+    "name": "Girona",
+    "resolved_name": "Girona",
+    "domain": "gironafutbolclub.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/kfu7zu1659897499.png"
+  },
+  {
+    "league": "La Liga",
+    "name": "Levante",
+    "resolved_name": "Levante",
+    "domain": "levanteud.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xwtxsx1473503739.png"
+  },
+  {
+    "league": "La Liga",
+    "name": "Mallorca",
+    "resolved_name": "Mallorca",
+    "domain": "rcdmallorca.es",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ssptsx1473503730.png"
+  },
+  {
+    "league": "La Liga",
+    "name": "Osasuna",
+    "resolved_name": "Osasuna",
+    "domain": "osasuna.es",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/rvspvt1473502960.png"
+  },
+  {
+    "league": "La Liga",
+    "name": "Rayo Vallecano",
+    "resolved_name": "Rayo Vallecano",
+    "domain": "rayovallecano.es",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/nzhu941655595465.png"
+  },
+  {
+    "league": "La Liga",
+    "name": "Real Betis",
+    "resolved_name": "Real Betis",
+    "domain": "realbetisbalompie.es",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png"
+  },
+  {
+    "league": "La Liga",
+    "name": "Real Madrid",
+    "resolved_name": "Real Madrid",
+    "domain": "realmadrid.com",
+    "badge": ""
+  },
+  {
+    "league": "La Liga",
+    "name": "Real Oviedo",
+    "resolved_name": "Real Oviedo",
+    "domain": "realoviedo.es",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/yuwqus1447590681.png"
+  },
+  {
+    "league": "La Liga",
+    "name": "Real Sociedad",
+    "resolved_name": "Real Sociedad",
+    "domain": "realsociedad.eus",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/vptvpr1473502986.png"
+  },
+  {
+    "league": "La Liga",
+    "name": "Sevilla",
+    "resolved_name": "Sevilla",
+    "domain": "sevillafc.es",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png"
+  },
+  {
+    "league": "La Liga",
+    "name": "Valencia",
+    "resolved_name": "Valencia",
+    "domain": "valenciacf.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png"
+  },
+  {
+    "league": "La Liga",
+    "name": "Villarreal",
+    "resolved_name": "Villarreal",
+    "domain": "villarrealcf.es",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png"
+  },
+  {
+    "league": "Serie A",
+    "name": "AC Milan",
+    "resolved_name": "AC Milan",
+    "domain": "acmilan.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png"
+  },
+  {
+    "league": "Serie A",
+    "name": "Atalanta",
+    "resolved_name": "Atalanta",
+    "domain": "atalanta.it",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/qix5ku1780561327.png"
+  },
+  {
+    "league": "Serie A",
+    "name": "Bologna",
+    "resolved_name": "Bologna",
+    "domain": "bolognafc.it",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/2qi1u31655592366.png"
+  },
+  {
+    "league": "Serie A",
+    "name": "Cagliari",
+    "resolved_name": "Cagliari",
+    "domain": "cagliaricalcio.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/wvsvxt1447534471.png"
+  },
+  {
+    "league": "Serie A",
+    "name": "Como",
+    "resolved_name": "Como",
+    "domain": "comofootball.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/02x81t1627405841.png"
+  },
+  {
+    "league": "Serie A",
+    "name": "Cremonese",
+    "resolved_name": "Cremonese",
+    "domain": "uscremonese.it",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/6ng2vy1579708291.png"
+  },
+  {
+    "league": "Serie A",
+    "name": "Fiorentina",
+    "resolved_name": "Fiorentina",
+    "domain": "it.violachannel.tv",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/hc8nhu1656098030.png"
+  },
+  {
+    "league": "Serie A",
+    "name": "Genoa",
+    "resolved_name": "Genoa",
+    "domain": "genoacfc.it",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/52s8dn1655553600.png"
+  },
+  {
+    "league": "Serie A",
+    "name": "Hellas Verona",
+    "resolved_name": "Hellas Verona",
+    "domain": "hellasverona.it",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/p6camf1593457737.png"
+  },
+  {
+    "league": "Serie A",
+    "name": "Inter",
+    "resolved_name": "Inter",
+    "domain": "inter.it",
+    "badge": ""
+  },
+  {
+    "league": "Serie A",
+    "name": "Juventus",
+    "resolved_name": "Juventus",
+    "domain": "juventus.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png"
+  },
+  {
+    "league": "Serie A",
+    "name": "Lazio",
+    "resolved_name": "Lazio",
+    "domain": "sslazio.it",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/rwqyvs1448806608.png"
+  },
+  {
+    "league": "Serie A",
+    "name": "Lecce",
+    "resolved_name": "Lecce",
+    "domain": "uslecce.it",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/j4vznr1567365249.png"
+  },
+  {
+    "league": "Serie A",
+    "name": "Napoli",
+    "resolved_name": "Napoli",
+    "domain": "sscnapoli.it",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png"
+  },
+  {
+    "league": "Serie A",
+    "name": "Parma",
+    "resolved_name": "Parma",
+    "domain": "parmacalcio1913.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/6yiaxs1627406063.png"
+  },
+  {
+    "league": "Serie A",
+    "name": "Pisa",
+    "resolved_name": "Pisa",
+    "domain": "pisasportingclub.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/2eso9w1579708309.png"
+  },
+  {
+    "league": "Serie A",
+    "name": "Roma",
+    "resolved_name": "Roma",
+    "domain": "asroma.it",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png"
+  },
+  {
+    "league": "Serie A",
+    "name": "Sassuolo",
+    "resolved_name": "Sassuolo",
+    "domain": "sassuolocalcio.it",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xystvp1448806138.png"
+  },
+  {
+    "league": "Serie A",
+    "name": "Torino",
+    "resolved_name": "Torino",
+    "domain": "torinofc.it",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xxprty1448806802.png"
+  },
+  {
+    "league": "Serie A",
+    "name": "Udinese",
+    "resolved_name": "Udinese",
+    "domain": "udinese.it",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/vwvstr1448806811.png"
+  },
+  {
+    "league": "Bundesliga",
+    "name": "1. FC Heidenheim",
+    "resolved_name": "Heidenheim",
+    "domain": "fc-heidenheim.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/lbj7g01608236988.png"
+  },
+  {
+    "league": "Bundesliga",
+    "name": "1. FC Koln",
+    "resolved_name": "Köln",
+    "domain": "fc-koeln.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/2j1sc91566049407.png"
+  },
+  {
+    "league": "Bundesliga",
+    "name": "Augsburg",
+    "resolved_name": "Augsburg",
+    "domain": "fcaugsburg.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xqyyvq1473453233.png"
+  },
+  {
+    "league": "Bundesliga",
+    "name": "Bayer Leverkusen",
+    "resolved_name": "Bayer Leverkusen",
+    "domain": "bayer04.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/3x9k851726760113.png"
+  },
+  {
+    "league": "Bundesliga",
+    "name": "Bayern Munich",
+    "resolved_name": "Bayern Munich",
+    "domain": "fcbayern.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+  },
+  {
+    "league": "Bundesliga",
+    "name": "Borussia Dortmund",
+    "resolved_name": "Borussia Dortmund",
+    "domain": "bvb.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png"
+  },
+  {
+    "league": "Bundesliga",
+    "name": "Borussia Monchengladbach",
+    "resolved_name": "Borussia Mönchengladbach",
+    "domain": "borussia.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/sysurw1473453380.png"
+  },
+  {
+    "league": "Bundesliga",
+    "name": "Eintracht Frankfurt",
+    "resolved_name": "Eintracht Frankfurt",
+    "domain": "eintracht.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png"
+  },
+  {
+    "league": "Bundesliga",
+    "name": "FC St. Pauli",
+    "resolved_name": "FC St. Pauli",
+    "domain": "fcstpauli.de",
+    "badge": ""
+  },
+  {
+    "league": "Bundesliga",
+    "name": "Hamburger SV",
+    "resolved_name": "Hamburger SV",
+    "domain": "hsv.de",
+    "badge": ""
+  },
+  {
+    "league": "Bundesliga",
+    "name": "Hoffenheim",
+    "resolved_name": "Hoffenheim",
+    "domain": "achtzehn99.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/9hwvb21621593919.png"
+  },
+  {
+    "league": "Bundesliga",
+    "name": "Mainz 05",
+    "resolved_name": "Mainz",
+    "domain": "mainz05.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/fhm9v51552134916.png"
+  },
+  {
+    "league": "Bundesliga",
+    "name": "RB Leipzig",
+    "resolved_name": "RB Leipzig",
+    "domain": "rbleipzig.com",
+    "badge": ""
+  },
+  {
+    "league": "Bundesliga",
+    "name": "SC Freiburg",
+    "resolved_name": "SC Freiburg",
+    "domain": "scfreiburg.com",
+    "badge": ""
+  },
+  {
+    "league": "Bundesliga",
+    "name": "Union Berlin",
+    "resolved_name": "Union Berlin",
+    "domain": "fc-union-berlin.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/q0o5001599679795.png"
+  },
+  {
+    "league": "Bundesliga",
+    "name": "VfB Stuttgart",
+    "resolved_name": "Stuttgart",
+    "domain": "vfb.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/yppyux1473454085.png"
+  },
+  {
+    "league": "Bundesliga",
+    "name": "VfL Wolfsburg",
+    "resolved_name": "VfL Wolfsburg Women",
+    "domain": "vfl-wolfsburg.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/pm6wxs1685783759.png"
+  },
+  {
+    "league": "Bundesliga",
+    "name": "Werder Bremen",
+    "resolved_name": "Werder Bremen",
+    "domain": "werder.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/tkvqan1716960454.png"
+  },
+  {
+    "league": "Ligue 1",
+    "name": "Angers",
+    "resolved_name": "Angers",
+    "domain": "angers-sco.fr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ix6q4w1678808069.png"
+  },
+  {
+    "league": "Ligue 1",
+    "name": "Auxerre",
+    "resolved_name": "Auxerre",
+    "domain": "aja.fr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/lzdtbf1658753355.png"
+  },
+  {
+    "league": "Ligue 1",
+    "name": "Brest",
+    "resolved_name": "Brest",
+    "domain": "sb29.bzh",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/z69be41598797026.png"
+  },
+  {
+    "league": "Ligue 1",
+    "name": "Le Havre",
+    "resolved_name": "Le Havre",
+    "domain": "hac-foot.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/aikowk1546475003.png"
+  },
+  {
+    "league": "Ligue 1",
+    "name": "Lens",
+    "resolved_name": "Lens",
+    "domain": "rclens.fr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/3pxoum1598797195.png"
+  },
+  {
+    "league": "Ligue 1",
+    "name": "Lille",
+    "resolved_name": "Lille",
+    "domain": "lmhc.fr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/txcsg21741597962.png"
+  },
+  {
+    "league": "Ligue 1",
+    "name": "Lorient",
+    "resolved_name": "Lorient",
+    "domain": "fclweb.fr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/sxsttw1473504748.png"
+  },
+  {
+    "league": "Ligue 1",
+    "name": "Lyon",
+    "resolved_name": "Lyon",
+    "domain": "olweb.fr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/blk9771656932845.png"
+  },
+  {
+    "league": "Ligue 1",
+    "name": "Marseille",
+    "resolved_name": "Marseille",
+    "domain": "om.fr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/c6bazh1779212287.png"
+  },
+  {
+    "league": "Ligue 1",
+    "name": "Metz",
+    "resolved_name": "Metz",
+    "domain": "fcmetz.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/1iuew61688452857.png"
+  },
+  {
+    "league": "Ligue 1",
+    "name": "Monaco",
+    "resolved_name": "Monaco",
+    "domain": "asm-fc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png"
+  },
+  {
+    "league": "Ligue 1",
+    "name": "Nantes",
+    "resolved_name": "Nantes",
+    "domain": "fcnantes.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/mla9x61678808018.png"
+  },
+  {
+    "league": "Ligue 1",
+    "name": "Nice",
+    "resolved_name": "Nice",
+    "domain": "ogcnice.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/msy7ly1621593859.png"
+  },
+  {
+    "league": "Ligue 1",
+    "name": "Paris FC",
+    "resolved_name": "Paris FC",
+    "domain": "parisfc.fr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/yuvtsy1447594254.png"
+  },
+  {
+    "league": "Ligue 1",
+    "name": "Paris Saint-Germain",
+    "resolved_name": "Paris Saint-Germain",
+    "domain": "psg.fr",
+    "badge": ""
+  },
+  {
+    "league": "Ligue 1",
+    "name": "Rennes",
+    "resolved_name": "Rennes",
+    "domain": "staderennais.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ypturx1473504818.png"
+  },
+  {
+    "league": "Ligue 1",
+    "name": "Strasbourg",
+    "resolved_name": "Strasbourg",
+    "domain": "rcstrasbourgalsace.fr",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/b8k77w1766625501.png"
+  },
+  {
+    "league": "Ligue 1",
+    "name": "Toulouse",
+    "resolved_name": "Toulouse",
+    "domain": "tfc.info",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/17eqox1688449282.png"
+  },
+  {
+    "league": "MLS",
+    "name": "Atlanta United",
+    "resolved_name": "Atlanta United",
+    "domain": "atlutd.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ej091x1602103070.png"
+  },
+  {
+    "league": "MLS",
+    "name": "Austin FC",
+    "resolved_name": "Austin FC",
+    "domain": "austinfc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/a3dlg61595434277.png"
+  },
+  {
+    "league": "MLS",
+    "name": "Charlotte FC",
+    "resolved_name": "Charlotte FC",
+    "domain": "charlottefootballclub.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/b6p4uz1595434047.png"
+  },
+  {
+    "league": "MLS",
+    "name": "Chicago Fire",
+    "resolved_name": "Chicago Fire",
+    "domain": "chicagofirefc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/8xuc781639493166.png"
+  },
+  {
+    "league": "MLS",
+    "name": "FC Cincinnati",
+    "resolved_name": "FC Cincinnati",
+    "domain": "fccincinnati.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/vvhsqc1707631046.png"
+  },
+  {
+    "league": "MLS",
+    "name": "Colorado Rapids",
+    "resolved_name": "Colorado Rapids",
+    "domain": "coloradorapids.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/uppupv1473536412.png"
+  },
+  {
+    "league": "MLS",
+    "name": "Columbus Crew",
+    "resolved_name": "Columbus Crew",
+    "domain": "thecrew.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/dzs8cp1629059854.png"
+  },
+  {
+    "league": "MLS",
+    "name": "FC Dallas",
+    "resolved_name": "FC Dallas",
+    "domain": "fcdallas.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/vxy8xy1602103187.png"
+  },
+  {
+    "league": "MLS",
+    "name": "D.C. United",
+    "resolved_name": "DC United",
+    "domain": "dcunited.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/uwvsyt1467462609.png"
+  },
+  {
+    "league": "MLS",
+    "name": "Houston Dynamo",
+    "resolved_name": "Houston Dynamo",
+    "domain": "houstondynamo.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/yvz9dq1707631352.png"
+  },
+  {
+    "league": "MLS",
+    "name": "Inter Miami",
+    "resolved_name": "Inter Miami",
+    "domain": "intermiamicf.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png"
+  },
+  {
+    "league": "MLS",
+    "name": "LA Galaxy",
+    "resolved_name": "LA Galaxy",
+    "domain": "lagalaxy.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ysyysr1420227188.png"
+  },
+  {
+    "league": "MLS",
+    "name": "Los Angeles FC",
+    "resolved_name": "Los Angeles FC",
+    "domain": "lafc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/7nbj2a1602103638.png"
+  },
+  {
+    "league": "MLS",
+    "name": "Minnesota United",
+    "resolved_name": "Minnesota United",
+    "domain": "mnufc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/vl67t41492453433.png"
+  },
+  {
+    "league": "MLS",
+    "name": "CF Montreal",
+    "resolved_name": "CF Montréal",
+    "domain": "cfmontreal.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/livdl31679344925.png"
+  },
+  {
+    "league": "MLS",
+    "name": "Nashville SC",
+    "resolved_name": "Nashville SC",
+    "domain": "nashvillesc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/znrwt71602103062.png"
+  },
+  {
+    "league": "MLS",
+    "name": "New England Revolution",
+    "resolved_name": "New England Revolution",
+    "domain": "revolutionsoccer.net",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/1ula2l1639493143.png"
+  },
+  {
+    "league": "MLS",
+    "name": "New York City FC",
+    "resolved_name": "New York City FC",
+    "domain": "nycfc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/m9vis71735140655.png"
+  },
+  {
+    "league": "MLS",
+    "name": "New York Red Bulls",
+    "resolved_name": "New York Red Bulls",
+    "domain": "newyorkredbulls.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/suytvy1473536462.png"
+  },
+  {
+    "league": "MLS",
+    "name": "Orlando City",
+    "resolved_name": "Orlando City",
+    "domain": "orlandocitysc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/qyppxw1423832326.png"
+  },
+  {
+    "league": "MLS",
+    "name": "Philadelphia Union",
+    "resolved_name": "Philadelphia Union",
+    "domain": "philadelphiaunion.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/gyznyo1602103682.png"
+  },
+  {
+    "league": "MLS",
+    "name": "Portland Timbers",
+    "resolved_name": "Portland Timbers",
+    "domain": "portlandtimbers.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/skm30j1557953559.png"
+  },
+  {
+    "league": "MLS",
+    "name": "Real Salt Lake",
+    "resolved_name": "Real Salt Lake",
+    "domain": "realsaltlake.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/kkjlfa1556488022.png"
+  },
+  {
+    "league": "MLS",
+    "name": "San Diego FC",
+    "resolved_name": "San Diego FC",
+    "domain": "sandiegofc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/7ka2xd1734621068.png"
+  },
+  {
+    "league": "MLS",
+    "name": "San Jose Earthquakes",
+    "resolved_name": "San Jose Earthquakes",
+    "domain": "sjearthquakes.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xyrqqt1420781048.png"
+  },
+  {
+    "league": "MLS",
+    "name": "Seattle Sounders",
+    "resolved_name": "Seattle Sounders",
+    "domain": "soundersfc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/2dy5cx1706711036.png"
+  },
+  {
+    "league": "MLS",
+    "name": "Sporting Kansas City",
+    "resolved_name": "Sporting Kansas City",
+    "domain": "sportingkc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/tqupxw1473536504.png"
+  },
+  {
+    "league": "MLS",
+    "name": "St. Louis City SC",
+    "resolved_name": "Louisville City",
+    "domain": "stlcitysc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/v0wen91771603471.png"
+  },
+  {
+    "league": "MLS",
+    "name": "Toronto FC",
+    "resolved_name": "Toronto FC",
+    "domain": "torontofc.ca",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/rsxyrr1473536512.png"
+  },
+  {
+    "league": "MLS",
+    "name": "Vancouver Whitecaps",
+    "resolved_name": "Vancouver Whitecaps",
+    "domain": "whitecapsfc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/tpwxpy1473536521.png"
+  }
+]

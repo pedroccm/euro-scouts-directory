@@ -1,0 +1,9 @@
+# segredos — NUNCA subir
+local_config.py
+
+# dados privados (contêm email) — nunca subir
+data/scouts_raw.json
+
+__pycache__/
+*.pyc
+.DS_Store
