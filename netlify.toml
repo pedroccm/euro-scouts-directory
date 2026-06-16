@@ -1,0 +1,8 @@
+# Build do app Next.js (shadcn) em web/ — saída estática em web/out
+[build]
+  base = "web"
+  command = "npm install && npm run build"
+  publish = "out"
+
+[build.environment]
+  NODE_VERSION = "20"

@@ -226,7 +226,13 @@ def main():
     with open(os.path.join(SITE_DIR, "data.json"), "w", encoding="utf-8") as f:
         json.dump(scouts, f, ensure_ascii=False, indent=2)
 
-    print(f"[site] {len(scouts)} scouts, {clubs} clubes -> {os.path.join(SITE_DIR, 'index.html')}")
+    # sincroniza os dados pro app Next.js (shadcn) em web/public/data.json
+    web_public = os.path.join(ROOT, "web", "public")
+    if os.path.isdir(web_public):
+        with open(os.path.join(web_public, "data.json"), "w", encoding="utf-8") as f:
+            json.dump(scouts, f, ensure_ascii=False, indent=2)
+
+    print(f"[site] {len(scouts)} scouts, {clubs} clubes -> site/index.html + web/public/data.json")
 
 
 if __name__ == "__main__":
