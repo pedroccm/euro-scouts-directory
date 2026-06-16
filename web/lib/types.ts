@@ -24,4 +24,8 @@ export const LEAGUE_ORDER = [
   "Championship",
   "League One",
   "2. Bundesliga",
+  "Brasileirão Série A",
+  "Brasileirão Série B",
+  "Brasileirão Série C",
+  "Brasileirão Série D",
 ];

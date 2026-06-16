@@ -13,6 +13,10 @@ const LEAGUE_STYLES: Record<string, string> = {
   Championship: "bg-fuchsia-100 text-fuchsia-700 ring-fuchsia-600/20",
   "League One": "bg-pink-100 text-pink-700 ring-pink-600/20",
   "2. Bundesliga": "bg-rose-100 text-rose-700 ring-rose-600/20",
+  "Brasileirão Série A": "bg-yellow-100 text-yellow-800 ring-yellow-600/20",
+  "Brasileirão Série B": "bg-teal-100 text-teal-700 ring-teal-600/20",
+  "Brasileirão Série C": "bg-cyan-100 text-cyan-700 ring-cyan-600/20",
+  "Brasileirão Série D": "bg-indigo-100 text-indigo-700 ring-indigo-600/20",
 };
 
 export function LeagueBadge({

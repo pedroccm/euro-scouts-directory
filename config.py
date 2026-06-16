@@ -45,6 +45,8 @@ SCOUT_TITLES = [
     "osservatore", "responsabile scouting",
     # alemão
     "kaderplanung",
+    # português-BR
+    "olheiro", "captação", "recrutamento", "observador", "analista de scout",
 ]
 
 # Pós-filtro: só mantemos o lead se o cargo contiver uma destas substrings
@@ -57,6 +59,9 @@ SCOUT_KEEP = [
     "reclut",         # reclutamiento (ES) / reclutamento (IT)
     "captac",         # captación (ES)
     "captad",         # captador (ES)
+    "captaç",         # captação (PT-BR)
+    "olheiro",        # olheiro (PT-BR)
+    "observador",     # observador técnico (PT-BR)
     "kaderplan",      # Kaderplanung (DE)
 ]
 
@@ -160,6 +165,41 @@ LEAGUES = {
         "1. FC Magdeburg", "Preussen Munster", "1. FC Nurnberg",
         "SC Paderborn", "FC Schalke 04",
     ],
+    # ===== BRASIL 2026 (Wikipédia) — nome "Brasileirão" p/ não colidir com Serie A (IT) =====
+    "Brasileirão Série A": [
+        "Athletico Paranaense", "Atlético Mineiro", "Bahia", "Botafogo",
+        "Chapecoense", "Corinthians", "Coritiba", "Cruzeiro", "Flamengo",
+        "Fluminense", "Grêmio", "Internacional", "Mirassol", "Palmeiras",
+        "Red Bull Bragantino", "Remo", "Santos", "São Paulo", "Vasco da Gama",
+        "Vitória",
+    ],
+    "Brasileirão Série B": [
+        "América Mineiro", "Athletic Club", "Atlético Goianiense", "Avaí",
+        "Botafogo-SP", "Ceará", "CRB", "Criciúma", "Cuiabá", "Fortaleza",
+        "Goiás", "Juventude", "Londrina", "Náutico", "Novorizontino",
+        "Operário Ferroviário", "Ponte Preta", "São Bernardo", "Sport",
+        "Vila Nova",
+    ],
+    "Brasileirão Série C": [
+        "Amazonas", "Anápolis", "Barra", "Botafogo-PB", "Brusque", "Caxias",
+        "Confiança", "Ferroviária", "Figueirense", "Floresta", "Guarani",
+        "Inter de Limeira", "Itabaiana", "Ituano", "Maranhão", "Maringá",
+        "Paysandu", "Santa Cruz", "Volta Redonda", "Ypiranga",
+    ],
+    "Brasileirão Série D": [
+        "ABC", "Água Santa", "Águia de Marabá", "Altos", "América-RN",
+        "Aparecidense", "Araguaína", "ASA", "Atlético de Alagoinhas",
+        "Atlético Cearense", "Azuriz", "Betim", "Brasil de Pelotas",
+        "Capital", "Ceilândia", "Central", "Cianorte", "CRAC", "CSA", "CSE",
+        "FC Cascavel", "Ferroviário", "Gama", "Guarany de Bagé", "Humaitá",
+        "Iguatu", "Imperatriz", "Jacuipense", "Joinville", "Juazeirense",
+        "Lagarto", "Luverdense", "Madureira", "Manaus", "Maracanã",
+        "Marcílio Dias", "Mixto", "Moto Club", "Nova Iguaçu", "Parnahyba",
+        "Pouso Alegre", "Primavera", "Real Noroeste", "Retrô", "Rio Branco",
+        "Sampaio Corrêa", "São José-RS", "São Luiz", "São Raimundo", "Sergipe",
+        "Sousa", "Tocantinópolis", "Tombense", "Treze", "Tuna Luso",
+        "Uberlândia", "Velo Clube", "XV de Piracicaba",
+    ],
 }
 
 # Overrides manuais de domínio (caso o TheSportsDB não resolva ou traga errado).
@@ -194,6 +234,11 @@ DOMAIN_OVERRIDES = {
     "AVS": "afsfut.pt",
     # ainda sem domínio confiável (clubes pequenos da 2ª PT, scout improvável):
     # Felgueiras, Lusitania Lourosa, Torreense
+    # Brasil — notáveis da B/C que o TheSportsDB não resolveu (verificados por HTTP)
+    "Vila Nova": "vilanovafc.com.br",
+    "São Bernardo": "saobernardofc.com.br",
+    "Amazonas": "amazonasfc.com.br",
+    "Sport": "sportrecife.com.br",
 }
 
 # Federações válidas pro --only (alias = nome da liga)
@@ -210,4 +255,8 @@ FED_ALIASES = {
     "CHAMPIONSHIP": "Championship", "EFL": "Championship", "CHAMP": "Championship",
     "LEAGUEONE": "League One", "EFL1": "League One", "L1ENG": "League One",
     "BUNDESLIGA2": "2. Bundesliga", "BL2": "2. Bundesliga", "2BL": "2. Bundesliga", "ZWEITE": "2. Bundesliga",
+    "BRA": "Brasileirão Série A", "BRASILEIRAO": "Brasileirão Série A", "BRASILEIRAOA": "Brasileirão Série A",
+    "BRB": "Brasileirão Série B", "BRASILEIRAOB": "Brasileirão Série B",
+    "BRC": "Brasileirão Série C", "BRASILEIRAOC": "Brasileirão Série C",
+    "BRD": "Brasileirão Série D", "BRASILEIRAOD": "Brasileirão Série D",
 }

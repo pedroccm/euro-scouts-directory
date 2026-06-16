@@ -1678,5 +1678,460 @@
     "resolved_name": "AVS Futebol SAD",
     "domain": "afsfut.pt",
     "badge": ""
+  },
+  {
+    "league": "Brasileirão Série A",
+    "name": "Athletico Paranaense",
+    "resolved_name": "Athletico Paranaense",
+    "domain": "athletico.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png"
+  },
+  {
+    "league": "Brasileirão Série A",
+    "name": "Atlético Mineiro",
+    "resolved_name": "Atlético Mineiro",
+    "domain": "atletico.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png"
+  },
+  {
+    "league": "Brasileirão Série A",
+    "name": "Bahia",
+    "resolved_name": "Bahia",
+    "domain": "esporteclubebahia.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png"
+  },
+  {
+    "league": "Brasileirão Série A",
+    "name": "Botafogo",
+    "resolved_name": "Botafogo",
+    "domain": "botafogo.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png"
+  },
+  {
+    "league": "Brasileirão Série A",
+    "name": "Chapecoense",
+    "resolved_name": "Chapecoense",
+    "domain": "chapecoense.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/wy0e1i1765900601.png"
+  },
+  {
+    "league": "Brasileirão Série A",
+    "name": "Corinthians",
+    "resolved_name": "Corinthians",
+    "domain": "corinthians.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png"
+  },
+  {
+    "league": "Brasileirão Série A",
+    "name": "Coritiba",
+    "resolved_name": "Coritiba",
+    "domain": "coritiba.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ywwsyu1473538050.png"
+  },
+  {
+    "league": "Brasileirão Série A",
+    "name": "Cruzeiro",
+    "resolved_name": "Cruzeiro",
+    "domain": "cruzeiro.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png"
+  },
+  {
+    "league": "Brasileirão Série A",
+    "name": "Flamengo",
+    "resolved_name": "Flamengo",
+    "domain": "flamengo.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png"
+  },
+  {
+    "league": "Brasileirão Série A",
+    "name": "Fluminense",
+    "resolved_name": "Fluminense",
+    "domain": "fluminense.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png"
+  },
+  {
+    "league": "Brasileirão Série A",
+    "name": "Grêmio",
+    "resolved_name": "Grêmio",
+    "domain": "gremio.net",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvpwyt1473538089.png"
+  },
+  {
+    "league": "Brasileirão Série A",
+    "name": "Internacional",
+    "resolved_name": "Internacional",
+    "domain": "internacional.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png"
+  },
+  {
+    "league": "Brasileirão Série A",
+    "name": "Mirassol",
+    "resolved_name": "Mirassol",
+    "domain": "mirassolfc.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/pw8uo11765900737.png"
+  },
+  {
+    "league": "Brasileirão Série A",
+    "name": "Palmeiras",
+    "resolved_name": "Palmeiras",
+    "domain": "palmeiras.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png"
+  },
+  {
+    "league": "Brasileirão Série A",
+    "name": "Red Bull Bragantino",
+    "resolved_name": "Bragantino",
+    "domain": "redbullbragantino.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png"
+  },
+  {
+    "league": "Brasileirão Série A",
+    "name": "Remo",
+    "resolved_name": "Remo",
+    "domain": "clubedoremo.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png"
+  },
+  {
+    "league": "Brasileirão Série A",
+    "name": "Santos",
+    "resolved_name": "Santos",
+    "domain": "santosfc.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png"
+  },
+  {
+    "league": "Brasileirão Série A",
+    "name": "São Paulo",
+    "resolved_name": "São Paulo",
+    "domain": "saopaulofc.net",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png"
+  },
+  {
+    "league": "Brasileirão Série A",
+    "name": "Vasco da Gama",
+    "resolved_name": "Vasco da Gama",
+    "domain": "vasco.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png"
+  },
+  {
+    "league": "Brasileirão Série A",
+    "name": "Vitória",
+    "resolved_name": "Vitória",
+    "domain": "ecvitoria.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/tysrrx1473538156.png"
+  },
+  {
+    "league": "Brasileirão Série B",
+    "name": "América Mineiro",
+    "resolved_name": "América Mineiro",
+    "domain": "americamineiro.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/rtpp171752177342.png"
+  },
+  {
+    "league": "Brasileirão Série B",
+    "name": "Athletic Club",
+    "resolved_name": "Athletic Club-MG",
+    "domain": "athleticclub.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/myl7c31677056352.png"
+  },
+  {
+    "league": "Brasileirão Série B",
+    "name": "Atlético Goianiense",
+    "resolved_name": "Atlético Goianiense",
+    "domain": "atleticogoianiense.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/l7382k1766505911.png"
+  },
+  {
+    "league": "Brasileirão Série B",
+    "name": "Avaí",
+    "resolved_name": "Avaí",
+    "domain": "avai.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/bblkat1766506007.png"
+  },
+  {
+    "league": "Brasileirão Série B",
+    "name": "Ceará",
+    "resolved_name": "Ceará",
+    "domain": "cearasc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/rxxvyp1464886685.png"
+  },
+  {
+    "league": "Brasileirão Série B",
+    "name": "CRB",
+    "resolved_name": "CRB",
+    "domain": "crb.esp.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/vpypuq1472069179.png"
+  },
+  {
+    "league": "Brasileirão Série B",
+    "name": "Criciúma",
+    "resolved_name": "Criciúma",
+    "domain": "criciumaec.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/r11mld1766506200.png"
+  },
+  {
+    "league": "Brasileirão Série B",
+    "name": "Cuiabá",
+    "resolved_name": "Cuiabá",
+    "domain": "cuiabaesporteclube.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ykbxfa1766506334.png"
+  },
+  {
+    "league": "Brasileirão Série B",
+    "name": "Fortaleza",
+    "resolved_name": "Fortaleza",
+    "domain": "fortaleza1918.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/tosmdr1532853458.png"
+  },
+  {
+    "league": "Brasileirão Série B",
+    "name": "Goiás",
+    "resolved_name": "Goiás",
+    "domain": "goiasesporteclube.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/qhfhdp1635869930.png"
+  },
+  {
+    "league": "Brasileirão Série B",
+    "name": "Juventude",
+    "resolved_name": "Juventude",
+    "domain": "juventude.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/1ntter1766506778.png"
+  },
+  {
+    "league": "Brasileirão Série B",
+    "name": "Londrina",
+    "resolved_name": "Londrina",
+    "domain": "londrinaesporteclube.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xp2z9j1740846583.png"
+  },
+  {
+    "league": "Brasileirão Série B",
+    "name": "Náutico",
+    "resolved_name": "Náutico",
+    "domain": "nautico-pe.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/wywuwv1464886832.png"
+  },
+  {
+    "league": "Brasileirão Série B",
+    "name": "Novorizontino",
+    "resolved_name": "Novorizontino",
+    "domain": "gremionovorizontino.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/2qwxw51617198963.png"
+  },
+  {
+    "league": "Brasileirão Série B",
+    "name": "Operário Ferroviário",
+    "resolved_name": "Operário Ferroviário",
+    "domain": "operarioferroviario.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/fhrc6i1560791704.png"
+  },
+  {
+    "league": "Brasileirão Série B",
+    "name": "Ponte Preta",
+    "resolved_name": "Ponte Preta",
+    "domain": "pontepretaesportes.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/wbss4d1644929547.png"
+  },
+  {
+    "league": "Brasileirão Série C",
+    "name": "Barra",
+    "resolved_name": "Barra",
+    "domain": "barrafc.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/bu1jtg1713439315.png"
+  },
+  {
+    "league": "Brasileirão Série C",
+    "name": "Brusque",
+    "resolved_name": "Brusque",
+    "domain": "brusquefutebolclube.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/o7p43b1766507803.png"
+  },
+  {
+    "league": "Brasileirão Série C",
+    "name": "Confiança",
+    "resolved_name": "Confiança",
+    "domain": "adconfianca.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/v9y3ye1579337829.png"
+  },
+  {
+    "league": "Brasileirão Série C",
+    "name": "Figueirense",
+    "resolved_name": "Figueirense",
+    "domain": "figueirense.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/yvvyps1473538067.png"
+  },
+  {
+    "league": "Brasileirão Série C",
+    "name": "Guarani",
+    "resolved_name": "Guarani",
+    "domain": "guaranifc.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/tpipb21766508536.png"
+  },
+  {
+    "league": "Brasileirão Série C",
+    "name": "Ituano",
+    "resolved_name": "Ituano",
+    "domain": "ituanofc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/7fg7n71596796444.png"
+  },
+  {
+    "league": "Brasileirão Série C",
+    "name": "Maringá",
+    "resolved_name": "Maringá",
+    "domain": "maringafc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/u8cdlj1677056366.png"
+  },
+  {
+    "league": "Brasileirão Série C",
+    "name": "Paysandu",
+    "resolved_name": "Paysandu",
+    "domain": "paysandu.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/9rrdrn1740851540.png"
+  },
+  {
+    "league": "Brasileirão Série C",
+    "name": "Santa Cruz",
+    "resolved_name": "Santa Cruz",
+    "domain": "santacruzpe.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/vvusuv1464886343.png"
+  },
+  {
+    "league": "Brasileirão Série C",
+    "name": "Volta Redonda",
+    "resolved_name": "Volta Redonda",
+    "domain": "voltaco.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/phc5fs1736379773.png"
+  },
+  {
+    "league": "Brasileirão Série D",
+    "name": "ABC",
+    "resolved_name": "ABC",
+    "domain": "abcfc.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/m1ampq1766507477.png"
+  },
+  {
+    "league": "Brasileirão Série D",
+    "name": "Água Santa",
+    "resolved_name": "Água Santa",
+    "domain": "ecaguasanta.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/hzg8cj1713439308.png"
+  },
+  {
+    "league": "Brasileirão Série D",
+    "name": "Águia de Marabá",
+    "resolved_name": "Águia de Marabá",
+    "domain": "aguiademarabafc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/j58nnm1733799372.png"
+  },
+  {
+    "league": "Brasileirão Série D",
+    "name": "Altos",
+    "resolved_name": "Altos",
+    "domain": "altosoficial.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/x9cimn1740845897.png"
+  },
+  {
+    "league": "Brasileirão Série D",
+    "name": "Capital",
+    "resolved_name": "Capital",
+    "domain": "capitalfc.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/e64m471769577148.png"
+  },
+  {
+    "league": "Brasileirão Série D",
+    "name": "CSA",
+    "resolved_name": "CSA",
+    "domain": "csaoficial.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ekzl671560365911.png"
+  },
+  {
+    "league": "Brasileirão Série D",
+    "name": "Jacuipense",
+    "resolved_name": "Jacuipense",
+    "domain": "ecjacuipense.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/tpvm951579343879.png"
+  },
+  {
+    "league": "Brasileirão Série D",
+    "name": "Joinville",
+    "resolved_name": "Joinville",
+    "domain": "jec.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/wpxl1u1733807689.png"
+  },
+  {
+    "league": "Brasileirão Série D",
+    "name": "Luverdense",
+    "resolved_name": "Luverdense",
+    "domain": "luverdense.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/7ejtnt1754889328.png"
+  },
+  {
+    "league": "Brasileirão Série D",
+    "name": "Manaus",
+    "resolved_name": "Manaus",
+    "domain": "manausfc.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/pzlh1q1767023556.png"
+  },
+  {
+    "league": "Brasileirão Série D",
+    "name": "Mixto",
+    "resolved_name": "Mixto",
+    "domain": "mixtonet.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/6388y31713439332.png"
+  },
+  {
+    "league": "Brasileirão Série D",
+    "name": "Sampaio Corrêa",
+    "resolved_name": "Sampaio Corrêa",
+    "domain": "sampaiocorreafc.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/2jjjlk1701366513.png"
+  },
+  {
+    "league": "Brasileirão Série D",
+    "name": "Tombense",
+    "resolved_name": "Tombense",
+    "domain": "tombense.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/1uj3n31579340660.png"
+  },
+  {
+    "league": "Brasileirão Série D",
+    "name": "Treze",
+    "resolved_name": "Treze",
+    "domain": "trezefc.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/hunu3z1769049180.png"
+  },
+  {
+    "league": "Brasileirão Série D",
+    "name": "XV de Piracicaba",
+    "resolved_name": "XV de Novembro",
+    "domain": "xvpiracicaba.com.br",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/6p1au71774629161.png"
+  },
+  {
+    "league": "Brasileirão Série B",
+    "name": "Vila Nova",
+    "resolved_name": "Vila Nova",
+    "domain": "vilanovafc.com.br",
+    "badge": ""
+  },
+  {
+    "league": "Brasileirão Série B",
+    "name": "São Bernardo",
+    "resolved_name": "São Bernardo",
+    "domain": "saobernardofc.com.br",
+    "badge": ""
+  },
+  {
+    "league": "Brasileirão Série C",
+    "name": "Amazonas",
+    "resolved_name": "Amazonas",
+    "domain": "amazonasfc.com.br",
+    "badge": ""
+  },
+  {
+    "league": "Brasileirão Série B",
+    "name": "Sport",
+    "resolved_name": "Sport",
+    "domain": "sportrecife.com.br",
+    "badge": ""
   }
 ]
