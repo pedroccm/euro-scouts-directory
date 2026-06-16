@@ -1006,5 +1006,677 @@
     "resolved_name": "Excelsior Rotterdam",
     "domain": "sbvexcelsior.nl",
     "badge": ""
+  },
+  {
+    "league": "Liga Portugal",
+    "name": "Sporting CP",
+    "resolved_name": "Sporting CP",
+    "domain": "sporting.pt",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ohj6ih1628855978.png"
+  },
+  {
+    "league": "Liga Portugal",
+    "name": "Benfica",
+    "resolved_name": "Benfica",
+    "domain": "slbenfica.pt",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png"
+  },
+  {
+    "league": "Liga Portugal",
+    "name": "FC Porto",
+    "resolved_name": "FC Porto B",
+    "domain": "fcporto.pt",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/86rrtg1628850959.png"
+  },
+  {
+    "league": "Liga Portugal",
+    "name": "Braga",
+    "resolved_name": "Braga",
+    "domain": "scbraga.pt",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/8g4aod1678717261.png"
+  },
+  {
+    "league": "Liga Portugal",
+    "name": "Vitoria Guimaraes",
+    "resolved_name": "Vitória de Guimarães",
+    "domain": "vitoriasc.pt",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/af52z61628855707.png"
+  },
+  {
+    "league": "Liga Portugal",
+    "name": "Famalicao",
+    "resolved_name": "Famalicao",
+    "domain": "fcfamalicao.pt",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/a3f4er1563653256.png"
+  },
+  {
+    "league": "Liga Portugal",
+    "name": "Moreirense",
+    "resolved_name": "Moreirense",
+    "domain": "moreirensefc.pt",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/yrquxu1471878153.png"
+  },
+  {
+    "league": "Liga Portugal",
+    "name": "Rio Ave",
+    "resolved_name": "Rio Ave",
+    "domain": "rioave-fc.pt",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ngbklq1628851239.png"
+  },
+  {
+    "league": "Liga Portugal",
+    "name": "Gil Vicente",
+    "resolved_name": "Gil Vicente",
+    "domain": "gilvicentefc.pt",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/88bsg41626201503.png"
+  },
+  {
+    "league": "Liga Portugal",
+    "name": "Estoril",
+    "resolved_name": "Estoril Praia",
+    "domain": "estorilpraia.pt",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/lq9h8m1628854051.png"
+  },
+  {
+    "league": "Liga Portugal",
+    "name": "Casa Pia",
+    "resolved_name": "Casa Pia",
+    "domain": "casapia-ac.pt",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/d8ugsc1678717133.png"
+  },
+  {
+    "league": "Liga Portugal",
+    "name": "Santa Clara",
+    "resolved_name": "Santa Clara",
+    "domain": "cdsantaclara.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/7337a61724860742.png"
+  },
+  {
+    "league": "Liga Portugal",
+    "name": "Arouca",
+    "resolved_name": "Arouca",
+    "domain": "fcarouca.eu",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/vgbzjq1628853833.png"
+  },
+  {
+    "league": "Liga Portugal",
+    "name": "Estrela Amadora",
+    "resolved_name": "Estrela Amadora",
+    "domain": "cdestrela.pt",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/2tx5621626095555.png"
+  },
+  {
+    "league": "Liga Portugal 2",
+    "name": "Academico de Viseu",
+    "resolved_name": "Académico de Viseu",
+    "domain": "academicodeviseu.pt",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/l9okbc1593020122.png"
+  },
+  {
+    "league": "Liga Portugal 2",
+    "name": "Farense",
+    "resolved_name": "Farense",
+    "domain": "scfarense.pt",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/0a09qc1690493592.png"
+  },
+  {
+    "league": "Liga Portugal 2",
+    "name": "Feirense",
+    "resolved_name": "Feirense",
+    "domain": "cdfeirense.pt",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/4b27rw1628851130.png"
+  },
+  {
+    "league": "Liga Portugal 2",
+    "name": "Leixoes",
+    "resolved_name": "Leixões",
+    "domain": "leixoessc.pt",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/6le5bu1580389318.png"
+  },
+  {
+    "league": "Liga Portugal 2",
+    "name": "Maritimo",
+    "resolved_name": "Marítimo",
+    "domain": "csmaritimo.pt",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xlr0tw1656336618.png"
+  },
+  {
+    "league": "Liga Portugal 2",
+    "name": "Oliveirense",
+    "resolved_name": "Oliveirense",
+    "domain": "udoliveirense.pt",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/7bdrmi1689642994.png"
+  },
+  {
+    "league": "Liga Portugal 2",
+    "name": "Pacos de Ferreira",
+    "resolved_name": "Paços de Ferreira",
+    "domain": "fcpf.pt",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/r85tk01628855526.png"
+  },
+  {
+    "league": "Liga Portugal 2",
+    "name": "Penafiel",
+    "resolved_name": "Penafiel",
+    "domain": "fcpenafiel.pt",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/91hl741593020134.png"
+  },
+  {
+    "league": "Liga Portugal 2",
+    "name": "Portimonense",
+    "resolved_name": "Portimonense",
+    "domain": "portimonense.pt",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/9ccun71593020108.png"
+  },
+  {
+    "league": "Liga Portugal 2",
+    "name": "Uniao de Leiria",
+    "resolved_name": "União de Leiria",
+    "domain": "uniaodeleiria.pt",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/bd9ohv1719887142.png"
+  },
+  {
+    "league": "Liga Portugal 2",
+    "name": "Vizela",
+    "resolved_name": "Vizela",
+    "domain": "fcvizela.pt",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/06nfn81596477982.png"
+  },
+  {
+    "league": "Championship",
+    "name": "Birmingham City",
+    "resolved_name": "Birmingham City",
+    "domain": "bcfc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/wufs551672950865.png"
+  },
+  {
+    "league": "Championship",
+    "name": "Blackburn Rovers",
+    "resolved_name": "Blackburn Rovers",
+    "domain": "rovers.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/rvryut1448810814.png"
+  },
+  {
+    "league": "Championship",
+    "name": "Bristol City",
+    "resolved_name": "Bristol City",
+    "domain": "bcfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/0ejxwz1601721013.png"
+  },
+  {
+    "league": "Championship",
+    "name": "Charlton Athletic",
+    "resolved_name": "Charlton Athletic",
+    "domain": "cafc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/o08wvi1635872307.png"
+  },
+  {
+    "league": "Championship",
+    "name": "Coventry City",
+    "resolved_name": "Coventry City",
+    "domain": "ccfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png"
+  },
+  {
+    "league": "Championship",
+    "name": "Derby County",
+    "resolved_name": "Derby County",
+    "domain": "dcfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/jioo4z1557155744.png"
+  },
+  {
+    "league": "Championship",
+    "name": "Hull City",
+    "resolved_name": "Hull City",
+    "domain": "wearehullcity.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png"
+  },
+  {
+    "league": "Championship",
+    "name": "Middlesbrough",
+    "resolved_name": "Middlesbrough",
+    "domain": "mfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/advjg71780068902.png"
+  },
+  {
+    "league": "Championship",
+    "name": "Millwall",
+    "resolved_name": "Millwall",
+    "domain": "millwallfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/5p1z5k1537208888.png"
+  },
+  {
+    "league": "Championship",
+    "name": "Norwich City",
+    "resolved_name": "Norwich City",
+    "domain": "canaries.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/pabczm1679951464.png"
+  },
+  {
+    "league": "Championship",
+    "name": "Oxford United",
+    "resolved_name": "Oxford United",
+    "domain": "oufc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/la34wg1601726102.png"
+  },
+  {
+    "league": "Championship",
+    "name": "Portsmouth",
+    "resolved_name": "Portsmouth",
+    "domain": "portsmouthfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/j13pfe1601726274.png"
+  },
+  {
+    "league": "Championship",
+    "name": "Preston North End",
+    "resolved_name": "Preston North End",
+    "domain": "pnefc.net",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/wqtwvw1448811512.png"
+  },
+  {
+    "league": "Championship",
+    "name": "Queens Park Rangers",
+    "resolved_name": "Queens Park Rangers",
+    "domain": "qpr.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/l4qscx1601721022.png"
+  },
+  {
+    "league": "Championship",
+    "name": "Sheffield United",
+    "resolved_name": "Sheffield United",
+    "domain": "sufc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/w7f8pj1672950689.png"
+  },
+  {
+    "league": "Championship",
+    "name": "Sheffield Wednesday",
+    "resolved_name": "Sheffield Wednesday",
+    "domain": "swfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/m3km7p1781284189.png"
+  },
+  {
+    "league": "Championship",
+    "name": "Southampton",
+    "resolved_name": "Southampton",
+    "domain": "saintsfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ggqtd01621593274.png"
+  },
+  {
+    "league": "Championship",
+    "name": "Stoke City",
+    "resolved_name": "Stoke City",
+    "domain": "stokecityfc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/hyd0vp1780068793.png"
+  },
+  {
+    "league": "Championship",
+    "name": "Swansea City",
+    "resolved_name": "Swansea City",
+    "domain": "swanseacity.net",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/474rco1686920744.png"
+  },
+  {
+    "league": "Championship",
+    "name": "Watford",
+    "resolved_name": "Watford",
+    "domain": "watfordfc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/rsuswy1448813519.png"
+  },
+  {
+    "league": "Championship",
+    "name": "West Bromwich Albion",
+    "resolved_name": "West Bromwich Albion",
+    "domain": "wba.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/rsvuxw1448813527.png"
+  },
+  {
+    "league": "Championship",
+    "name": "Wrexham",
+    "resolved_name": "Wrexham",
+    "domain": "wrexhamafc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ezpymt1675092551.png"
+  },
+  {
+    "league": "League One",
+    "name": "AFC Wimbledon",
+    "resolved_name": "AFC Wimbledon",
+    "domain": "afcwimbledon.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/md7iqx1684129667.png"
+  },
+  {
+    "league": "League One",
+    "name": "Barnsley",
+    "resolved_name": "Barnsley",
+    "domain": "barnsleyfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xvxsuv1447437855.png"
+  },
+  {
+    "league": "League One",
+    "name": "Blackpool",
+    "resolved_name": "Blackpool",
+    "domain": "blackpoolfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/utywru1448754934.png"
+  },
+  {
+    "league": "League One",
+    "name": "Bolton Wanderers",
+    "resolved_name": "Bolton Wanderers",
+    "domain": "bwfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/yvxxrv1448808301.png"
+  },
+  {
+    "league": "League One",
+    "name": "Bradford City",
+    "resolved_name": "Bradford City",
+    "domain": "bradfordcityfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/trwxxv1424033151.png"
+  },
+  {
+    "league": "League One",
+    "name": "Burton Albion",
+    "resolved_name": "Burton Albion",
+    "domain": "burtonalbionfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvpqpw1423804499.png"
+  },
+  {
+    "league": "League One",
+    "name": "Cardiff City",
+    "resolved_name": "Cardiff City",
+    "domain": "cardiffcityfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png"
+  },
+  {
+    "league": "League One",
+    "name": "Doncaster Rovers",
+    "resolved_name": "Doncaster Rovers",
+    "domain": "doncasterroversfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/ssvpvx1424033260.png"
+  },
+  {
+    "league": "League One",
+    "name": "Exeter City",
+    "resolved_name": "Exeter City",
+    "domain": "exetercityfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/98wt4h1521144923.png"
+  },
+  {
+    "league": "League One",
+    "name": "Huddersfield Town",
+    "resolved_name": "Huddersfield Town",
+    "domain": "htafc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/y11fin1677527513.png"
+  },
+  {
+    "league": "League One",
+    "name": "Leyton Orient",
+    "resolved_name": "Leyton Orient",
+    "domain": "leytonorient.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/g4d9bi1688678797.png"
+  },
+  {
+    "league": "League One",
+    "name": "Lincoln City",
+    "resolved_name": "Lincoln City",
+    "domain": "weareimps.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/x46tji1719860130.png"
+  },
+  {
+    "league": "League One",
+    "name": "Luton Town",
+    "resolved_name": "Luton Town",
+    "domain": "lutontown.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/v977eh1681319466.png"
+  },
+  {
+    "league": "League One",
+    "name": "Mansfield Town",
+    "resolved_name": "Mansfield Town",
+    "domain": "mansfieldtown.net",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/c1fpes1761709071.png"
+  },
+  {
+    "league": "League One",
+    "name": "Northampton Town",
+    "resolved_name": "Northampton Town",
+    "domain": "ntfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/aa42641684131255.png"
+  },
+  {
+    "league": "League One",
+    "name": "Peterborough United",
+    "resolved_name": "Peterborough United",
+    "domain": "theposh.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/p14ltc1779778820.png"
+  },
+  {
+    "league": "League One",
+    "name": "Plymouth Argyle",
+    "resolved_name": "Plymouth Argyle",
+    "domain": "pafc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png"
+  },
+  {
+    "league": "League One",
+    "name": "Port Vale",
+    "resolved_name": "Port Vale",
+    "domain": "port-vale.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/s1ke3v1761710614.png"
+  },
+  {
+    "league": "League One",
+    "name": "Reading",
+    "resolved_name": "Reading",
+    "domain": "readingfc.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png"
+  },
+  {
+    "league": "League One",
+    "name": "Rotherham United",
+    "resolved_name": "Rotherham United",
+    "domain": "themillers.co.uk",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/yfoiyf1779788861.png"
+  },
+  {
+    "league": "League One",
+    "name": "Stevenage",
+    "resolved_name": "Stevenage",
+    "domain": "stevenagefc.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/o4m2ci1596480474.png"
+  },
+  {
+    "league": "League One",
+    "name": "Stockport County",
+    "resolved_name": "Stockport County",
+    "domain": "stockportcounty.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcsz9k1594450753.png"
+  },
+  {
+    "league": "2. Bundesliga",
+    "name": "Hertha BSC",
+    "resolved_name": "Hertha",
+    "domain": "herthabsc.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/8okmtm1621593943.png"
+  },
+  {
+    "league": "2. Bundesliga",
+    "name": "Arminia Bielefeld",
+    "resolved_name": "Arminia Bielefeld",
+    "domain": "arminia-bielefeld.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/xrrwpx1447591964.png"
+  },
+  {
+    "league": "2. Bundesliga",
+    "name": "Eintracht Braunschweig",
+    "resolved_name": "Eintracht Braunschweig",
+    "domain": "eintracht.com",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/lrrq0z1599820707.png"
+  },
+  {
+    "league": "2. Bundesliga",
+    "name": "VfL Bochum",
+    "resolved_name": "Bochum",
+    "domain": "vfl-bochum.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/kag3jy1599821108.png"
+  },
+  {
+    "league": "2. Bundesliga",
+    "name": "Darmstadt 98",
+    "resolved_name": "Darmstadt",
+    "domain": "sv98.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/5f3dyd1608236981.png"
+  },
+  {
+    "league": "2. Bundesliga",
+    "name": "Dynamo Dresden",
+    "resolved_name": "Dynamo Dresden",
+    "domain": "dynamo-dresden.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/yxqvxp1471898795.png"
+  },
+  {
+    "league": "2. Bundesliga",
+    "name": "Fortuna Dusseldorf",
+    "resolved_name": "Fortuna Düsseldorf",
+    "domain": "fortuna95.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/rsruww1473454140.png"
+  },
+  {
+    "league": "2. Bundesliga",
+    "name": "SV Elversberg",
+    "resolved_name": "Elversberg",
+    "domain": "sv07elversberg.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/z079go1677573926.png"
+  },
+  {
+    "league": "2. Bundesliga",
+    "name": "Greuther Furth",
+    "resolved_name": "Greuther Fürth",
+    "domain": "greuther-fuerth.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/87n1901608237004.png"
+  },
+  {
+    "league": "2. Bundesliga",
+    "name": "Hannover 96",
+    "resolved_name": "Hannover 96",
+    "domain": "hannover96.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/tqpqqv1473454148.png"
+  },
+  {
+    "league": "2. Bundesliga",
+    "name": "1. FC Kaiserslautern",
+    "resolved_name": "Kaiserslautern",
+    "domain": "fck.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/jghax31740165513.png"
+  },
+  {
+    "league": "2. Bundesliga",
+    "name": "Karlsruher SC",
+    "resolved_name": "Karlsruhe",
+    "domain": "ksc.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/l784ls1696006504.png"
+  },
+  {
+    "league": "2. Bundesliga",
+    "name": "Holstein Kiel",
+    "resolved_name": "Holstein Kiel",
+    "domain": "holstein-kiel.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/1fpmgs1514394524.png"
+  },
+  {
+    "league": "2. Bundesliga",
+    "name": "1. FC Magdeburg",
+    "resolved_name": "Magdeburg",
+    "domain": "fc-magdeburg.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/f2fuxs1532856216.png"
+  },
+  {
+    "league": "2. Bundesliga",
+    "name": "Preussen Munster",
+    "resolved_name": "Preußen Münster",
+    "domain": "scpreussen-muenster.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/nu38ih1579106303.png"
+  },
+  {
+    "league": "2. Bundesliga",
+    "name": "1. FC Nurnberg",
+    "resolved_name": "Nürnberg",
+    "domain": "fcn.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/wtj8rd1659904028.png"
+  },
+  {
+    "league": "2. Bundesliga",
+    "name": "SC Paderborn",
+    "resolved_name": "Paderborn",
+    "domain": "scpaderborn07.de",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/kddvva1566048058.png"
+  },
+  {
+    "league": "Liga Portugal",
+    "name": "Nacional",
+    "resolved_name": "Nacional",
+    "domain": "cdnacional.pt",
+    "badge": ""
+  },
+  {
+    "league": "Championship",
+    "name": "Leicester City",
+    "resolved_name": "Leicester City",
+    "domain": "lcfc.com",
+    "badge": ""
+  },
+  {
+    "league": "Championship",
+    "name": "Ipswich Town",
+    "resolved_name": "Ipswich Town",
+    "domain": "itfc.co.uk",
+    "badge": ""
+  },
+  {
+    "league": "League One",
+    "name": "Wigan Athletic",
+    "resolved_name": "Wigan Athletic",
+    "domain": "wiganlatics.co.uk",
+    "badge": ""
+  },
+  {
+    "league": "League One",
+    "name": "Wycombe Wanderers",
+    "resolved_name": "Wycombe Wanderers",
+    "domain": "wwfc.com",
+    "badge": ""
+  },
+  {
+    "league": "2. Bundesliga",
+    "name": "FC Schalke 04",
+    "resolved_name": "FC Schalke 04",
+    "domain": "schalke04.de",
+    "badge": ""
+  },
+  {
+    "league": "Liga Portugal",
+    "name": "Alverca",
+    "resolved_name": "Alverca",
+    "domain": "fcalverca.pt",
+    "badge": ""
+  },
+  {
+    "league": "Liga Portugal",
+    "name": "Tondela",
+    "resolved_name": "Tondela",
+    "domain": "cdtondela.pt",
+    "badge": ""
+  },
+  {
+    "league": "Liga Portugal 2",
+    "name": "Chaves",
+    "resolved_name": "Chaves",
+    "domain": "gdchaves.pt",
+    "badge": ""
+  },
+  {
+    "league": "Liga Portugal",
+    "name": "AVS",
+    "resolved_name": "AVS Futebol SAD",
+    "domain": "afsfut.pt",
+    "badge": ""
   }
 ]

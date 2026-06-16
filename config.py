@@ -117,6 +117,49 @@ LEAGUES = {
         "PSV Eindhoven", "Sparta Rotterdam", "SC Telstar", "FC Twente",
         "FC Utrecht", "FC Volendam", "sc Heerenveen",
     ],
+    # Liga Portugal Betclic — Primeira Liga 2025/26 (18). Rosters via Wikipédia.
+    "Liga Portugal": [
+        "Sporting CP", "Benfica", "FC Porto", "Braga", "Vitoria Guimaraes",
+        "Famalicao", "Moreirense", "Rio Ave", "Gil Vicente", "Estoril",
+        "Casa Pia", "Santa Clara", "Arouca", "Estrela Amadora", "Nacional",
+        "AVS", "Tondela", "Alverca",
+    ],
+    # Liga Portugal 2 — Segunda Liga 2025/26 (times B excluídos: domínio = clube-mãe)
+    "Liga Portugal 2": [
+        "Academico de Viseu", "Chaves", "Farense", "Feirense", "Felgueiras",
+        "Leixoes", "Lusitania Lourosa", "Maritimo", "Oliveirense",
+        "Pacos de Ferreira", "Penafiel", "Portimonense", "Torreense",
+        "Uniao de Leiria", "Vizela",
+    ],
+    # EFL Championship 2025/26 (24) — Inglaterra 2ª divisão
+    "Championship": [
+        "Birmingham City", "Blackburn Rovers", "Bristol City",
+        "Charlton Athletic", "Coventry City", "Derby County", "Hull City",
+        "Ipswich Town", "Leicester City", "Middlesbrough", "Millwall",
+        "Norwich City", "Oxford United", "Portsmouth", "Preston North End",
+        "Queens Park Rangers", "Sheffield United", "Sheffield Wednesday",
+        "Southampton", "Stoke City", "Swansea City", "Watford",
+        "West Bromwich Albion", "Wrexham",
+    ],
+    # EFL League One 2025/26 (24) — Inglaterra 3ª divisão
+    "League One": [
+        "AFC Wimbledon", "Barnsley", "Blackpool", "Bolton Wanderers",
+        "Bradford City", "Burton Albion", "Cardiff City", "Doncaster Rovers",
+        "Exeter City", "Huddersfield Town", "Leyton Orient", "Lincoln City",
+        "Luton Town", "Mansfield Town", "Northampton Town",
+        "Peterborough United", "Plymouth Argyle", "Port Vale", "Reading",
+        "Rotherham United", "Stevenage", "Stockport County", "Wigan Athletic",
+        "Wycombe Wanderers",
+    ],
+    # 2. Bundesliga 2025/26 (18) — Alemanha 2ª divisão
+    "2. Bundesliga": [
+        "Hertha BSC", "Arminia Bielefeld", "Eintracht Braunschweig",
+        "VfL Bochum", "Darmstadt 98", "Dynamo Dresden", "Fortuna Dusseldorf",
+        "SV Elversberg", "Greuther Furth", "Hannover 96",
+        "1. FC Kaiserslautern", "Karlsruher SC", "Holstein Kiel",
+        "1. FC Magdeburg", "Preussen Munster", "1. FC Nurnberg",
+        "SC Paderborn", "FC Schalke 04",
+    ],
 }
 
 # Overrides manuais de domínio (caso o TheSportsDB não resolva ou traga errado).
@@ -138,6 +181,19 @@ DOMAIN_OVERRIDES = {
     # Eredivisie
     "Excelsior Rotterdam": "sbvexcelsior.nl",  # não resolveu
     "FC Groningen": "fcgroningen.nl",          # vinha donar.nl (= Donar, clube de basquete)
+    # Portugal / Championship / League One / 2.Bundesliga — 429 ou nome variante
+    "Nacional": "cdnacional.pt",
+    "Leicester City": "lcfc.com",
+    "Ipswich Town": "itfc.co.uk",
+    "Wigan Athletic": "wiganlatics.co.uk",
+    "Wycombe Wanderers": "wwfc.com",
+    "FC Schalke 04": "schalke04.de",
+    "Alverca": "fcalverca.pt",
+    "Tondela": "cdtondela.pt",
+    "Chaves": "gdchaves.pt",
+    "AVS": "afsfut.pt",
+    # ainda sem domínio confiável (clubes pequenos da 2ª PT, scout improvável):
+    # Felgueiras, Lusitania Lourosa, Torreense
 }
 
 # Federações válidas pro --only (alias = nome da liga)
@@ -149,4 +205,9 @@ FED_ALIASES = {
     "LIGUE1": "Ligue 1", "L1": "Ligue 1",
     "MLS": "MLS", "USA": "MLS",
     "EREDIVISIE": "Eredivisie", "NL": "Eredivisie", "HOLANDA": "Eredivisie", "NED": "Eredivisie",
+    "PORTUGAL": "Liga Portugal", "LIGAPORTUGAL": "Liga Portugal", "PT1": "Liga Portugal", "PRIMEIRA": "Liga Portugal",
+    "LIGAPORTUGAL2": "Liga Portugal 2", "PT2": "Liga Portugal 2", "SEGUNDA": "Liga Portugal 2",
+    "CHAMPIONSHIP": "Championship", "EFL": "Championship", "CHAMP": "Championship",
+    "LEAGUEONE": "League One", "EFL1": "League One", "L1ENG": "League One",
+    "BUNDESLIGA2": "2. Bundesliga", "BL2": "2. Bundesliga", "2BL": "2. Bundesliga", "ZWEITE": "2. Bundesliga",
 }
